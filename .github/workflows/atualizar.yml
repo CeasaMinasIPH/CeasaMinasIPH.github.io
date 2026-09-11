@@ -1,0 +1,60 @@
+name: Atualizar dados do IPH
+
+on:
+  schedule:
+    # toda sexta-feira as 09:00 (12:00 UTC) -- a semana de referencia do IPH
+    # vai de quinta a quarta, entao o informe da semana costuma sair ate sexta.
+    - cron: "0 12 * * 5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-iph
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Cache dos PDFs ja baixados (evita rebaixar tudo toda semana)
+        uses: actions/cache@v4
+        with:
+          path: data/pdfs
+          key: pdfs-ceasaminas-${{ github.run_id }}
+          restore-keys: pdfs-ceasaminas-
+
+      - name: Baixar PDFs novos (boletins mensais e informes semanais)
+        run: python scripts/fetch_pdfs.py
+
+      - name: Atualizar comparativo entre unidades da CeasaMinas
+        run: python scripts/fetch_comparativo.py
+
+      - name: Reprocessar PDFs em data/dados.json
+        run: python scripts/parse_pdfs.py
+
+      - name: Reconstruir index.html com os dados novos
+        run: python scripts/build_html.py
+
+      - name: Publicar se algo mudou
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A -- data index.html
+          if git diff --cached --quiet; then
+            echo "Nada novo publicado pela CeasaMinas desde a ultima checagem."
+          else
+            AVISOS=$(python -c "import json; print(len(json.load(open('data/dados.json'))['meta'].get('avisos', [])))")
+            git commit -m "Atualizacao automatica semanal dos dados do IPH (avisos: ${AVISOS})"
+            git push
+          fi
