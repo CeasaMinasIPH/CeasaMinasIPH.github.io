@@ -2,9 +2,9 @@ name: Atualizar dados do IPH
 
 on:
   schedule:
-    # toda sexta-feira as 09:00 (12:00 UTC) -- a semana de referencia do IPH
-    # vai de quinta a quarta, entao o informe da semana costuma sair ate sexta.
-    - cron: "0 12 * * 5"
+    # a CeasaMinas publica os PDFs toda segunda-feira, entao checamos toda
+    # terca as 09:00 (12:00 UTC) para dar folga de publicacao.
+    - cron: "0 12 * * 2"
   workflow_dispatch: {}
 
 permissions:
