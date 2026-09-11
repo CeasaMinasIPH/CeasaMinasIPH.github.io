@@ -1,0 +1,7806 @@
+{
+ "meta": {
+  "fonte": "IPH CeasaMinas-UFV — CeasaMinas e Departamento de Economia da UFV",
+  "url": "https://www.ceasaminas.com.br/indiceufvgeral.asp",
+  "base": "dezembro de 2024 = 100",
+  "gerado_em": "2026-09-10",
+  "periodo_mensal": [
+   "2025-06",
+   "2026-08"
+  ],
+  "periodo_semanal": [
+   "2025-07-16",
+   "2026-09-02"
+  ],
+  "n_produtos": 58,
+  "series_indice_rotulo": {
+   "IPH": "IPH geral",
+   "Frutas": "Frutas",
+   "Frutas_brasileiras": "Frutas brasileiras",
+   "Frutas_importadas": "Frutas importadas",
+   "Hortalicas": "Hortaliças",
+   "Hortalicas_folha_flor_haste": "Hortaliças – folha, flor e haste",
+   "Hortalicas_fruto": "Hortaliças – fruto",
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": "Hortaliças – raiz, bulbo, tubérculo e rizoma",
+   "Ovos": "Ovos"
+  },
+  "series_indice_curto": {
+   "IPH": "IPH geral",
+   "Frutas": "Frutas",
+   "Frutas_brasileiras": "Frutas brasileiras",
+   "Frutas_importadas": "Frutas importadas",
+   "Hortalicas": "Hortaliças",
+   "Hortalicas_folha_flor_haste": "Hort. folha, flor e haste",
+   "Hortalicas_fruto": "Hort. fruto",
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": "Hort. raiz, bulbo, tubérculo",
+   "Ovos": "Ovos"
+  },
+  "avisos": []
+ },
+ "indice_numero": [
+  {
+   "mes": "2024-12",
+   "rotulo": "dez/24",
+   "valor": 100.0,
+   "origem": "base"
+  },
+  {
+   "mes": "2025-01",
+   "rotulo": "jan/25",
+   "valor": 89.0,
+   "origem": "figura3"
+  },
+  {
+   "mes": "2025-02",
+   "rotulo": "fev/25",
+   "valor": 94.78,
+   "origem": "figura3"
+  },
+  {
+   "mes": "2025-03",
+   "rotulo": "mar/25",
+   "valor": 97.84,
+   "origem": "figura3"
+  },
+  {
+   "mes": "2025-04",
+   "rotulo": "abr/25",
+   "valor": 90.42,
+   "origem": "figura3"
+  },
+  {
+   "mes": "2025-05",
+   "rotulo": "mai/25",
+   "valor": 91.19,
+   "origem": "figura3"
+  },
+  {
+   "mes": "2025-06",
+   "rotulo": "jun/25",
+   "valor": 87.09,
+   "origem": "cadeia"
+  },
+  {
+   "mes": "2025-07",
+   "rotulo": "jul/25",
+   "valor": 80.5,
+   "origem": "cadeia"
+  },
+  {
+   "mes": "2025-08",
+   "rotulo": "ago/25",
+   "valor": 78.23,
+   "origem": "cadeia"
+  },
+  {
+   "mes": "2025-09",
+   "rotulo": "set/25",
+   "valor": 82.41,
+   "origem": "cadeia"
+  },
+  {
+   "mes": "2025-10",
+   "rotulo": "out/25",
+   "valor": 81.75,
+   "origem": "cadeia"
+  },
+  {
+   "mes": "2025-11",
+   "rotulo": "nov/25",
+   "valor": 75.88,
+   "origem": "cadeia"
+  },
+  {
+   "mes": "2025-12",
+   "rotulo": "dez/25",
+   "valor": 76.0,
+   "origem": "cadeia"
+  },
+  {
+   "mes": "2026-01",
+   "rotulo": "jan/26",
+   "valor": 80.79,
+   "origem": "cadeia"
+  },
+  {
+   "mes": "2026-02",
+   "rotulo": "fev/26",
+   "valor": 80.47,
+   "origem": "cadeia"
+  },
+  {
+   "mes": "2026-03",
+   "rotulo": "mar/26",
+   "valor": 83.26,
+   "origem": "cadeia"
+  },
+  {
+   "mes": "2026-04",
+   "rotulo": "abr/26",
+   "valor": 91.51,
+   "origem": "cadeia"
+  },
+  {
+   "mes": "2026-05",
+   "rotulo": "mai/26",
+   "valor": 90.1,
+   "origem": "cadeia"
+  },
+  {
+   "mes": "2026-06",
+   "rotulo": "jun/26",
+   "valor": 84.62,
+   "origem": "cadeia"
+  },
+  {
+   "mes": "2026-07",
+   "rotulo": "jul/26",
+   "valor": 76.45,
+   "origem": "cadeia"
+  },
+  {
+   "mes": "2026-08",
+   "rotulo": "ago/26",
+   "valor": 77.37,
+   "origem": "cadeia"
+  }
+ ],
+ "iph_mensal": [
+  {
+   "mes": "2025-06",
+   "rotulo": "jun/25",
+   "IPH": -4.51,
+   "Frutas": -1.29,
+   "Frutas_brasileiras": -1.3,
+   "Frutas_importadas": -0.79,
+   "Hortalicas": -7.94,
+   "Hortalicas_folha_flor_haste": -29.22,
+   "Hortalicas_fruto": 21.32,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -17.05,
+   "Ovos": -0.12
+  },
+  {
+   "mes": "2025-07",
+   "rotulo": "jul/25",
+   "IPH": -7.57,
+   "Frutas": 4.67,
+   "Frutas_brasileiras": 4.88,
+   "Frutas_importadas": -4.0,
+   "Hortalicas": -16.89,
+   "Hortalicas_folha_flor_haste": 2.01,
+   "Hortalicas_fruto": -17.35,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -17.96,
+   "Ovos": -10.56
+  },
+  {
+   "mes": "2025-08",
+   "rotulo": "ago/25",
+   "IPH": -2.82,
+   "Frutas": 2.33,
+   "Frutas_brasileiras": 2.35,
+   "Frutas_importadas": 1.67,
+   "Hortalicas": -10.27,
+   "Hortalicas_folha_flor_haste": -9.64,
+   "Hortalicas_fruto": 4.32,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -16.4,
+   "Ovos": 7.54
+  },
+  {
+   "mes": "2025-09",
+   "rotulo": "set/25",
+   "IPH": 5.35,
+   "Frutas": 7.92,
+   "Frutas_brasileiras": 8.46,
+   "Frutas_importadas": -11.48,
+   "Hortalicas": 4.16,
+   "Hortalicas_folha_flor_haste": 3.59,
+   "Hortalicas_fruto": -7.32,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 11.21,
+   "Ovos": -7.9
+  },
+  {
+   "mes": "2025-10",
+   "rotulo": "out/25",
+   "IPH": -0.81,
+   "Frutas": -7.45,
+   "Frutas_brasileiras": -8.41,
+   "Frutas_importadas": 18.88,
+   "Hortalicas": 9.88,
+   "Hortalicas_folha_flor_haste": 21.24,
+   "Hortalicas_fruto": 24.4,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 0.34,
+   "Ovos": -2.38
+  },
+  {
+   "mes": "2025-11",
+   "rotulo": "nov/25",
+   "IPH": -7.18,
+   "Frutas": -0.6,
+   "Frutas_brasileiras": -1.49,
+   "Frutas_importadas": 11.56,
+   "Hortalicas": -15.72,
+   "Hortalicas_folha_flor_haste": -5.69,
+   "Hortalicas_fruto": -40.6,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -0.37,
+   "Ovos": -6.49
+  },
+  {
+   "mes": "2025-12",
+   "rotulo": "dez/25",
+   "IPH": 0.17,
+   "Frutas": 2.6,
+   "Frutas_brasileiras": 3.23,
+   "Frutas_importadas": -5.14,
+   "Hortalicas": 0.51,
+   "Hortalicas_folha_flor_haste": 2.57,
+   "Hortalicas_fruto": 0.06,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 0.48,
+   "Ovos": -23.96
+  },
+  {
+   "mes": "2026-01",
+   "rotulo": "jan/26",
+   "IPH": 6.3,
+   "Frutas": -9.12,
+   "Frutas_brasileiras": -9.92,
+   "Frutas_importadas": 1.1,
+   "Hortalicas": 25.22,
+   "Hortalicas_folha_flor_haste": 7.25,
+   "Hortalicas_fruto": 100.97,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -0.75,
+   "Ovos": 35.95
+  },
+  {
+   "mes": "2026-02",
+   "rotulo": "fev/26",
+   "IPH": -0.4,
+   "Frutas": -1.84,
+   "Frutas_brasileiras": 2.56,
+   "Frutas_importadas": -45.84,
+   "Hortalicas": -0.72,
+   "Hortalicas_folha_flor_haste": 46.02,
+   "Hortalicas_fruto": -32.05,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 20.67,
+   "Ovos": 13.56
+  },
+  {
+   "mes": "2026-03",
+   "rotulo": "mar/26",
+   "IPH": 3.47,
+   "Frutas": -3.14,
+   "Frutas_brasileiras": -3.77,
+   "Frutas_importadas": 6.87,
+   "Hortalicas": 9.36,
+   "Hortalicas_folha_flor_haste": 7.45,
+   "Hortalicas_fruto": 36.61,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -2.56,
+   "Ovos": 12.16
+  },
+  {
+   "mes": "2026-04",
+   "rotulo": "abr/26",
+   "IPH": 9.9,
+   "Frutas": -3.1,
+   "Frutas_brasileiras": -3.22,
+   "Frutas_importadas": -1.58,
+   "Hortalicas": 26.9,
+   "Hortalicas_folha_flor_haste": 1.15,
+   "Hortalicas_fruto": 21.0,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 34.12,
+   "Ovos": -16.25
+  },
+  {
+   "mes": "2026-05",
+   "rotulo": "mai/26",
+   "IPH": -1.54,
+   "Frutas": -4.5,
+   "Frutas_brasileiras": -4.93,
+   "Frutas_importadas": 0.51,
+   "Hortalicas": -0.15,
+   "Hortalicas_folha_flor_haste": -17.33,
+   "Hortalicas_fruto": -24.48,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 16.71,
+   "Ovos": 6.45
+  },
+  {
+   "mes": "2026-06",
+   "rotulo": "jun/26",
+   "IPH": -6.08,
+   "Frutas": -2.19,
+   "Frutas_brasileiras": -2.23,
+   "Frutas_importadas": -1.83,
+   "Hortalicas": -8.97,
+   "Hortalicas_folha_flor_haste": -0.68,
+   "Hortalicas_fruto": 8.02,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -16.21,
+   "Ovos": -3.92
+  },
+  {
+   "mes": "2026-07",
+   "rotulo": "jul/26",
+   "IPH": -9.65,
+   "Frutas": 10.36,
+   "Frutas_brasileiras": 10.52,
+   "Frutas_importadas": 6.6,
+   "Hortalicas": -22.81,
+   "Hortalicas_folha_flor_haste": -26.0,
+   "Hortalicas_fruto": -32.26,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -17.66,
+   "Ovos": -12.56
+  },
+  {
+   "mes": "2026-08",
+   "rotulo": "ago/26",
+   "IPH": 1.2,
+   "Frutas": -0.31,
+   "Frutas_brasileiras": -1.21,
+   "Frutas_importadas": 19.86,
+   "Hortalicas": 2.66,
+   "Hortalicas_folha_flor_haste": -8.2,
+   "Hortalicas_fruto": 17.58,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -2.26,
+   "Ovos": 2.38
+  }
+ ],
+ "iph_semanal": [
+  {
+   "fim": "2025-07-16",
+   "periodo": "10/07 a 16/07",
+   "origem": "informe (transcrito)",
+   "IPH": -3.81,
+   "Frutas": -2.49,
+   "Hortalicas": -5.23,
+   "Ovos": -1.97,
+   "Frutas_brasileiras": -2.5,
+   "Frutas_importadas": -1.61,
+   "Hortalicas_folha_flor_haste": 0.38,
+   "Hortalicas_fruto": -10.94,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -2.75
+  },
+  {
+   "fim": "2025-07-23",
+   "periodo": "17/07 a 23/07",
+   "origem": "informe (transcrito)",
+   "IPH": -1.55,
+   "Frutas": 0.37,
+   "Hortalicas": -2.74,
+   "Ovos": -4.13,
+   "Frutas_brasileiras": 0.34,
+   "Frutas_importadas": 1.64,
+   "Hortalicas_folha_flor_haste": 7.13,
+   "Hortalicas_fruto": 15.09,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -11.34
+  },
+  {
+   "fim": "2025-07-30",
+   "periodo": "24/07 a 30/07",
+   "origem": "informe (transcrito)",
+   "IPH": -1.44,
+   "Frutas": 6.08,
+   "Hortalicas": -7.87,
+   "Ovos": -1.06,
+   "Frutas_brasileiras": 6.35,
+   "Frutas_importadas": -3.23,
+   "Hortalicas_folha_flor_haste": -14.31,
+   "Hortalicas_fruto": -26.71,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 4.62
+  },
+  {
+   "fim": "2025-08-06",
+   "periodo": "31/07 a 06/08",
+   "origem": "informe (transcrito)",
+   "IPH": 9.69,
+   "Frutas": 5.23,
+   "Hortalicas": 14.93,
+   "Ovos": 5.36,
+   "Frutas_brasileiras": 5.24,
+   "Frutas_importadas": 5.0,
+   "Hortalicas_folha_flor_haste": 34.69,
+   "Hortalicas_fruto": 42.68,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 3.4
+  },
+  {
+   "fim": "2025-08-13",
+   "periodo": "07/08 a 13/08",
+   "origem": "informe (transcrito)",
+   "IPH": -5.9,
+   "Frutas": -1.77,
+   "Hortalicas": -11.98,
+   "Ovos": 4.54,
+   "Frutas_brasileiras": -1.69,
+   "Frutas_importadas": -4.76,
+   "Hortalicas_folha_flor_haste": -7.89,
+   "Hortalicas_fruto": -13.13,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -11.69
+  },
+  {
+   "fim": "2025-08-20",
+   "periodo": "14/08 a 20/08",
+   "origem": "informe (transcrito)",
+   "IPH": -4.25,
+   "Frutas": 0.9,
+   "Hortalicas": -10.39,
+   "Ovos": 0.0,
+   "Frutas_brasileiras": 0.82,
+   "Frutas_importadas": 3.33,
+   "Hortalicas_folha_flor_haste": -14.0,
+   "Hortalicas_fruto": -12.73,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -8.63
+  },
+  {
+   "fim": "2025-08-27",
+   "periodo": "21/08 a 27/08",
+   "origem": "informe (transcrito)",
+   "IPH": -1.31,
+   "Frutas": -0.29,
+   "Hortalicas": -2.41,
+   "Ovos": -2.33,
+   "Frutas_brasileiras": -0.27,
+   "Frutas_importadas": -1.61,
+   "Hortalicas_folha_flor_haste": -16.64,
+   "Hortalicas_fruto": -3.99,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 0.17
+  },
+  {
+   "fim": "2025-09-03",
+   "periodo": "28/08 a 03/09",
+   "origem": "informe (transcrito)",
+   "IPH": 2.73,
+   "Frutas": 5.13,
+   "Hortalicas": 0.18,
+   "Ovos": -1.96,
+   "Frutas_brasileiras": 5.35,
+   "Frutas_importadas": -1.64,
+   "Hortalicas_folha_flor_haste": 1.96,
+   "Hortalicas_fruto": -5.43,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 4.05
+  },
+  {
+   "fim": "2025-09-10",
+   "periodo": "04/09 a 10/09",
+   "origem": "informe (transcrito)",
+   "IPH": 6.41,
+   "Frutas": 1.75,
+   "Hortalicas": 14.19,
+   "Ovos": 0.0,
+   "Frutas_brasileiras": 1.84,
+   "Frutas_importadas": -1.67,
+   "Hortalicas_folha_flor_haste": 11.4,
+   "Hortalicas_fruto": 44.32,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -1.17
+  },
+  {
+   "fim": "2025-09-17",
+   "periodo": "11/09 a 17/09",
+   "origem": "informe (transcrito)",
+   "IPH": -5.56,
+   "Frutas": 1.17,
+   "Hortalicas": -14.73,
+   "Ovos": 0.0,
+   "Frutas_brasileiras": 1.23,
+   "Frutas_importadas": -1.69,
+   "Hortalicas_folha_flor_haste": -16.33,
+   "Hortalicas_fruto": -32.06,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -0.37
+  },
+  {
+   "fim": "2025-09-24",
+   "periodo": "18/09 a 24/09",
+   "origem": "informe (transcrito)",
+   "IPH": 1.97,
+   "Frutas": -0.04,
+   "Hortalicas": 6.43,
+   "Ovos": -6.08,
+   "Frutas_brasileiras": 0.13,
+   "Frutas_importadas": -6.9,
+   "Hortalicas_folha_flor_haste": 8.36,
+   "Hortalicas_fruto": -0.25,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 9.79
+  },
+  {
+   "fim": "2025-10-01",
+   "periodo": "25/09 a 01/10",
+   "origem": "boletim",
+   "IPH": 2.97,
+   "Frutas": -1.43,
+   "Frutas_brasileiras": -1.42,
+   "Frutas_importadas": -1.85,
+   "Hortalicas": 10.48,
+   "Hortalicas_folha_flor_haste": 47.51,
+   "Hortalicas_fruto": 45.19,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -11.16,
+   "Ovos": -3.13
+  },
+  {
+   "fim": "2025-10-08",
+   "periodo": "02/10 a 08/10",
+   "origem": "boletim",
+   "IPH": -0.98,
+   "Frutas": -2.57,
+   "Frutas_brasileiras": -2.6,
+   "Frutas_importadas": 0.0,
+   "Hortalicas": 0.2,
+   "Hortalicas_folha_flor_haste": -1.08,
+   "Hortalicas_fruto": -15.96,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 16.56,
+   "Ovos": 5.58
+  },
+  {
+   "fim": "2025-10-15",
+   "periodo": "09/10 a 15/10",
+   "origem": "boletim",
+   "IPH": -2.98,
+   "Frutas": -0.75,
+   "Frutas_brasileiras": -0.86,
+   "Frutas_importadas": 7.55,
+   "Hortalicas": -6.55,
+   "Hortalicas_folha_flor_haste": -10.76,
+   "Hortalicas_fruto": -27.01,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 7.76,
+   "Ovos": 1.95
+  },
+  {
+   "fim": "2025-10-22",
+   "periodo": "16/10 a 22/10",
+   "origem": "boletim",
+   "IPH": -2.37,
+   "Frutas": -1.68,
+   "Frutas_brasileiras": -1.8,
+   "Frutas_importadas": 0.0,
+   "Hortalicas": -3.03,
+   "Hortalicas_folha_flor_haste": 1.64,
+   "Hortalicas_fruto": 3.44,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -7.05,
+   "Ovos": -4.15
+  },
+  {
+   "fim": "2025-10-29",
+   "periodo": "23/10 a 29/10",
+   "origem": "boletim",
+   "IPH": 1.44,
+   "Frutas": -1.48,
+   "Frutas_brasileiras": -2.06,
+   "Frutas_importadas": 3.1,
+   "Hortalicas": 6.68,
+   "Hortalicas_folha_flor_haste": -10.4,
+   "Hortalicas_fruto": 33.53,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -3.78,
+   "Ovos": -2.22
+  },
+  {
+   "fim": "2025-11-05",
+   "periodo": "30/10 a 05/11",
+   "origem": "boletim",
+   "IPH": -5.85,
+   "Frutas": -0.27,
+   "Frutas_brasileiras": -0.56,
+   "Frutas_importadas": 3.14,
+   "Hortalicas": -13.66,
+   "Hortalicas_folha_flor_haste": -0.46,
+   "Hortalicas_fruto": -35.77,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 0.18,
+   "Ovos": 2.19
+  },
+  {
+   "fim": "2025-11-12",
+   "periodo": "06/11 a 12/11",
+   "origem": "boletim",
+   "IPH": -2.08,
+   "Frutas": 1.88,
+   "Frutas_brasileiras": 2.2,
+   "Frutas_importadas": -2.61,
+   "Hortalicas": -7.67,
+   "Hortalicas_folha_flor_haste": 1.99,
+   "Hortalicas_fruto": -19.12,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -4.27,
+   "Ovos": -2.01
+  },
+  {
+   "fim": "2025-11-19",
+   "periodo": "13/11 a 19/11",
+   "origem": "boletim",
+   "IPH": 1.63,
+   "Frutas": -0.77,
+   "Frutas_brasileiras": -1.1,
+   "Frutas_importadas": 3.75,
+   "Hortalicas": 8.11,
+   "Hortalicas_folha_flor_haste": 14.74,
+   "Hortalicas_fruto": 9.04,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 6.8,
+   "Ovos": -6.57
+  },
+  {
+   "fim": "2025-11-26",
+   "periodo": "20/11 a 26/11",
+   "origem": "boletim",
+   "IPH": -1.19,
+   "Frutas": -1.83,
+   "Frutas_brasileiras": -2.44,
+   "Frutas_importadas": 6.75,
+   "Hortalicas": -0.46,
+   "Hortalicas_folha_flor_haste": -20.94,
+   "Hortalicas_fruto": 4.2,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 0.5,
+   "Ovos": 0.0
+  },
+  {
+   "fim": "2025-12-03",
+   "periodo": "27/11 a 03/12",
+   "origem": "boletim",
+   "IPH": 2.3,
+   "Frutas": 2.07,
+   "Frutas_brasileiras": 2.41,
+   "Frutas_importadas": -1.32,
+   "Hortalicas": 2.59,
+   "Hortalicas_folha_flor_haste": -5.6,
+   "Hortalicas_fruto": 6.9,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 1.72,
+   "Ovos": 2.6
+  },
+  {
+   "fim": "2025-12-10",
+   "periodo": "04/12 a 10/12",
+   "origem": "boletim",
+   "IPH": 2.15,
+   "Frutas": -1.18,
+   "Frutas_brasileiras": -1.12,
+   "Frutas_importadas": -1.71,
+   "Hortalicas": 8.61,
+   "Hortalicas_folha_flor_haste": 4.91,
+   "Hortalicas_fruto": -30.75,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 27.1,
+   "Ovos": -6.43
+  },
+  {
+   "fim": "2025-12-17",
+   "periodo": "11/12 a 17/12",
+   "origem": "boletim",
+   "IPH": -5.85,
+   "Frutas": 0.59,
+   "Frutas_brasileiras": 0.51,
+   "Frutas_importadas": 1.74,
+   "Hortalicas": -15.71,
+   "Hortalicas_folha_flor_haste": -10.59,
+   "Hortalicas_fruto": 1.88,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -20.12,
+   "Ovos": 0.21
+  },
+  {
+   "fim": "2025-12-24",
+   "periodo": "18/12 a 24/12",
+   "origem": "boletim",
+   "IPH": 3.86,
+   "Frutas": 1.2,
+   "Frutas_brasileiras": 1.27,
+   "Frutas_importadas": 0.0,
+   "Hortalicas": 9.18,
+   "Hortalicas_folha_flor_haste": 1.58,
+   "Hortalicas_fruto": 21.72,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 5.7,
+   "Ovos": 0.34
+  },
+  {
+   "fim": "2025-12-31",
+   "periodo": "25/12 a 31/12",
+   "origem": "boletim",
+   "IPH": -1.77,
+   "Frutas": 0.77,
+   "Frutas_brasileiras": 0.93,
+   "Frutas_importadas": -3.72,
+   "Hortalicas": -1.73,
+   "Hortalicas_folha_flor_haste": 11.09,
+   "Hortalicas_fruto": 8.89,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -6.28,
+   "Ovos": -21.89
+  },
+  {
+   "fim": "2026-01-07",
+   "periodo": "01/01 a 07/01",
+   "origem": "boletim",
+   "IPH": 7.19,
+   "Frutas": -2.88,
+   "Frutas_brasileiras": -2.94,
+   "Frutas_importadas": -1.32,
+   "Hortalicas": 23.56,
+   "Hortalicas_folha_flor_haste": 11.78,
+   "Hortalicas_fruto": 69.45,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 5.46,
+   "Ovos": 2.87
+  },
+  {
+   "fim": "2026-01-14",
+   "periodo": "08/01 a 14/01",
+   "origem": "boletim",
+   "IPH": 5.27,
+   "Frutas": -2.42,
+   "Frutas_brasileiras": -2.61,
+   "Frutas_importadas": 2.14,
+   "Hortalicas": 12.67,
+   "Hortalicas_folha_flor_haste": 36.34,
+   "Hortalicas_fruto": 32.59,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -0.18,
+   "Ovos": 18.18
+  },
+  {
+   "fim": "2026-01-21",
+   "periodo": "15/01 a 21/01",
+   "origem": "boletim",
+   "IPH": -10.73,
+   "Frutas": -3.39,
+   "Frutas_brasileiras": -3.74,
+   "Frutas_importadas": -0.49,
+   "Hortalicas": -19.61,
+   "Hortalicas_folha_flor_haste": -37.66,
+   "Hortalicas_fruto": -36.12,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -5.62,
+   "Ovos": -0.74
+  },
+  {
+   "fim": "2026-01-28",
+   "periodo": "22/01 a 28/01",
+   "origem": "boletim",
+   "IPH": 6.36,
+   "Frutas": -0.58,
+   "Frutas_brasileiras": -0.65,
+   "Frutas_importadas": 0.0,
+   "Hortalicas": 13.64,
+   "Hortalicas_folha_flor_haste": 13.33,
+   "Hortalicas_fruto": 41.21,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 0.0,
+   "Ovos": 12.66
+  },
+  {
+   "fim": "2026-02-04",
+   "periodo": "29/01 a 04/02",
+   "origem": "boletim",
+   "IPH": -7.35,
+   "Frutas": -6.53,
+   "Frutas_brasileiras": -3.84,
+   "Frutas_importadas": -29.38,
+   "Hortalicas": -11.28,
+   "Hortalicas_folha_flor_haste": 22.58,
+   "Hortalicas_fruto": -32.41,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 1.97,
+   "Ovos": 13.78
+  },
+  {
+   "fim": "2026-02-11",
+   "periodo": "05/02 a 11/02",
+   "origem": "boletim",
+   "IPH": 5.02,
+   "Frutas": 2.17,
+   "Frutas_brasileiras": 3.25,
+   "Frutas_importadas": -11.41,
+   "Hortalicas": 9.22,
+   "Hortalicas_folha_flor_haste": -0.26,
+   "Hortalicas_fruto": 1.31,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 14.71,
+   "Ovos": -0.11
+  },
+  {
+   "fim": "2026-02-18",
+   "periodo": "12/02 a 18/02",
+   "origem": "boletim",
+   "IPH": -3.45,
+   "Frutas": -0.25,
+   "Frutas_brasileiras": 0.08,
+   "Frutas_importadas": -5.0,
+   "Hortalicas": -7.3,
+   "Hortalicas_folha_flor_haste": 11.53,
+   "Hortalicas_fruto": 4.03,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -14.04,
+   "Ovos": 0.0
+  },
+  {
+   "fim": "2026-02-25",
+   "periodo": "19/02 a 25/02",
+   "origem": "boletim",
+   "IPH": 5.86,
+   "Frutas": 2.78,
+   "Frutas_brasileiras": 3.28,
+   "Frutas_importadas": -9.27,
+   "Hortalicas": 10.38,
+   "Hortalicas_folha_flor_haste": 7.1,
+   "Hortalicas_fruto": -4.93,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 21.05,
+   "Ovos": 0.0
+  },
+  {
+   "fim": "2026-03-04",
+   "periodo": "26/02 a 04/03",
+   "origem": "boletim",
+   "IPH": 8.56,
+   "Frutas": -0.04,
+   "Frutas_brasileiras": -0.07,
+   "Frutas_importadas": 0.35,
+   "Hortalicas": 16.54,
+   "Hortalicas_folha_flor_haste": 10.61,
+   "Hortalicas_fruto": 47.12,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 3.17,
+   "Ovos": 12.05
+  },
+  {
+   "fim": "2026-03-11",
+   "periodo": "05/03 a 11/03",
+   "origem": "boletim",
+   "IPH": -2.01,
+   "Frutas": -2.51,
+   "Frutas_brasileiras": -3.01,
+   "Frutas_importadas": 6.86,
+   "Hortalicas": -1.83,
+   "Hortalicas_folha_flor_haste": 9.05,
+   "Hortalicas_fruto": -6.78,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -0.37,
+   "Ovos": 0.02
+  },
+  {
+   "fim": "2026-03-18",
+   "periodo": "12/03 a 18/03",
+   "origem": "boletim",
+   "IPH": -1.49,
+   "Frutas": 1.21,
+   "Frutas_brasileiras": 1.34,
+   "Frutas_importadas": -0.54,
+   "Hortalicas": -4.77,
+   "Hortalicas_folha_flor_haste": -0.63,
+   "Hortalicas_fruto": -12.46,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -0.75,
+   "Ovos": 1.83
+  },
+  {
+   "fim": "2026-03-25",
+   "periodo": "19/03 a 25/03",
+   "origem": "boletim",
+   "IPH": -0.52,
+   "Frutas": -2.47,
+   "Frutas_brasileiras": -2.7,
+   "Frutas_importadas": 2.86,
+   "Hortalicas": 1.7,
+   "Hortalicas_folha_flor_haste": -7.4,
+   "Hortalicas_fruto": 13.44,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -3.47,
+   "Ovos": -1.79
+  },
+  {
+   "fim": "2026-04-01",
+   "periodo": "26/03 a 01/04",
+   "origem": "boletim",
+   "IPH": 3.17,
+   "Frutas": -0.16,
+   "Frutas_brasileiras": 0.17,
+   "Frutas_importadas": -4.34,
+   "Hortalicas": 6.41,
+   "Hortalicas_folha_flor_haste": 12.99,
+   "Hortalicas_fruto": 10.49,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 2.95,
+   "Ovos": 0.0
+  },
+  {
+   "fim": "2026-04-08",
+   "periodo": "02/04 a 08/04",
+   "origem": "boletim",
+   "IPH": 3.41,
+   "Frutas": 3.0,
+   "Frutas_brasileiras": 3.16,
+   "Frutas_importadas": 0.87,
+   "Hortalicas": 4.38,
+   "Hortalicas_folha_flor_haste": -11.3,
+   "Hortalicas_fruto": -11.15,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 16.45,
+   "Ovos": -0.06
+  },
+  {
+   "fim": "2026-04-15",
+   "periodo": "09/04 a 15/04",
+   "origem": "boletim",
+   "IPH": -3.0,
+   "Frutas": -0.25,
+   "Frutas_brasileiras": -0.34,
+   "Frutas_importadas": 1.28,
+   "Hortalicas": -4.35,
+   "Hortalicas_folha_flor_haste": 19.37,
+   "Hortalicas_fruto": -5.99,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -6.29,
+   "Ovos": -10.83
+  },
+  {
+   "fim": "2026-04-22",
+   "periodo": "16/04 a 22/04",
+   "origem": "boletim",
+   "IPH": -1.76,
+   "Frutas": -3.31,
+   "Frutas_brasileiras": -3.72,
+   "Frutas_importadas": 2.04,
+   "Hortalicas": -0.23,
+   "Hortalicas_folha_flor_haste": -22.49,
+   "Hortalicas_fruto": -1.59,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 3.81,
+   "Ovos": 0.0
+  },
+  {
+   "fim": "2026-04-29",
+   "periodo": "23/04 a 29/04",
+   "origem": "boletim",
+   "IPH": 8.45,
+   "Frutas": -1.14,
+   "Frutas_brasileiras": -1.15,
+   "Frutas_importadas": -1.01,
+   "Hortalicas": 19.12,
+   "Hortalicas_folha_flor_haste": 7.13,
+   "Hortalicas_fruto": 32.75,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 13.66,
+   "Ovos": -6.04
+  },
+  {
+   "fim": "2026-05-06",
+   "periodo": "30/04 a 06/05",
+   "origem": "boletim",
+   "IPH": 4.73,
+   "Frutas": 2.47,
+   "Frutas_brasileiras": 2.86,
+   "Frutas_importadas": -2.31,
+   "Hortalicas": 6.26,
+   "Hortalicas_folha_flor_haste": -13.01,
+   "Hortalicas_fruto": -2.21,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 13.2,
+   "Ovos": 6.48
+  },
+  {
+   "fim": "2026-05-13",
+   "periodo": "07/05 a 13/05",
+   "origem": "boletim",
+   "IPH": -5.52,
+   "Frutas": -3.89,
+   "Frutas_brasileiras": -4.23,
+   "Frutas_importadas": 0.22,
+   "Hortalicas": -7.33,
+   "Hortalicas_folha_flor_haste": 22.86,
+   "Hortalicas_fruto": -22.67,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -1.47,
+   "Ovos": 0.0
+  },
+  {
+   "fim": "2026-05-20",
+   "periodo": "14/05 a 20/05",
+   "origem": "boletim",
+   "IPH": -0.62,
+   "Frutas": -0.81,
+   "Frutas_brasileiras": -1.08,
+   "Frutas_importadas": 1.66,
+   "Hortalicas": -0.53,
+   "Hortalicas_folha_flor_haste": -20.38,
+   "Hortalicas_fruto": -0.44,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 1.8,
+   "Ovos": 0.0
+  },
+  {
+   "fim": "2026-05-27",
+   "periodo": "21/05 a 27/05",
+   "origem": "boletim",
+   "IPH": 0.0,
+   "Frutas": -2.68,
+   "Frutas_brasileiras": -2.86,
+   "Frutas_importadas": 0.23,
+   "Hortalicas": 1.81,
+   "Hortalicas_folha_flor_haste": -2.93,
+   "Hortalicas_fruto": -0.19,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 3.05,
+   "Ovos": 0.0
+  },
+  {
+   "fim": "2026-06-03",
+   "periodo": "28/05 a 03/06",
+   "origem": "boletim",
+   "IPH": 0.42,
+   "Frutas": -0.14,
+   "Frutas_brasileiras": -0.19,
+   "Frutas_importadas": 0.5,
+   "Hortalicas": 0.63,
+   "Hortalicas_folha_flor_haste": -9.42,
+   "Hortalicas_fruto": 13.6,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -3.55,
+   "Ovos": 2.04
+  },
+  {
+   "fim": "2026-06-10",
+   "periodo": "04/06 a 10/06",
+   "origem": "boletim",
+   "IPH": 7.56,
+   "Frutas": 1.12,
+   "Frutas_brasileiras": 0.81,
+   "Frutas_importadas": 5.15,
+   "Hortalicas": 12.93,
+   "Hortalicas_folha_flor_haste": 23.38,
+   "Hortalicas_fruto": 28.46,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 5.46,
+   "Ovos": 0.19
+  },
+  {
+   "fim": "2026-06-17",
+   "periodo": "11/06 a 17/06",
+   "origem": "boletim",
+   "IPH": -10.69,
+   "Frutas": -3.47,
+   "Frutas_brasileiras": -2.75,
+   "Frutas_importadas": -8.52,
+   "Hortalicas": -16.03,
+   "Hortalicas_folha_flor_haste": -6.92,
+   "Hortalicas_fruto": -28.84,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -10.43,
+   "Ovos": -0.02
+  },
+  {
+   "fim": "2026-06-24",
+   "periodo": "18/06 a 24/06",
+   "origem": "boletim",
+   "IPH": -3.0,
+   "Frutas": -1.14,
+   "Frutas_brasileiras": -1.27,
+   "Frutas_importadas": 0.64,
+   "Hortalicas": -3.87,
+   "Hortalicas_folha_flor_haste": -3.55,
+   "Hortalicas_fruto": 3.34,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -7.63,
+   "Ovos": -5.91
+  },
+  {
+   "fim": "2026-07-01",
+   "periodo": "25/06 a 01/07",
+   "origem": "boletim",
+   "IPH": -8.43,
+   "Frutas": -0.31,
+   "Frutas_brasileiras": -0.52,
+   "Frutas_importadas": 3.19,
+   "Hortalicas": -14.55,
+   "Hortalicas_folha_flor_haste": -11.76,
+   "Hortalicas_fruto": -37.53,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -1.91,
+   "Ovos": -5.2
+  },
+  {
+   "fim": "2026-07-08",
+   "periodo": "02/07 a 08/07",
+   "origem": "boletim",
+   "IPH": 3.97,
+   "Frutas": 7.07,
+   "Frutas_brasileiras": 7.43,
+   "Frutas_importadas": -1.63,
+   "Hortalicas": 2.5,
+   "Hortalicas_folha_flor_haste": 13.07,
+   "Hortalicas_fruto": 15.29,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -2.81,
+   "Ovos": -2.23
+  },
+  {
+   "fim": "2026-07-15",
+   "periodo": "09/07 a 15/07",
+   "origem": "boletim",
+   "IPH": -3.49,
+   "Frutas": 2.29,
+   "Frutas_brasileiras": 2.17,
+   "Frutas_importadas": 5.19,
+   "Hortalicas": -8.72,
+   "Hortalicas_folha_flor_haste": -21.37,
+   "Hortalicas_fruto": -7.52,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -7.75,
+   "Ovos": -1.13
+  },
+  {
+   "fim": "2026-07-22",
+   "periodo": "16/07 a 22/07",
+   "origem": "boletim",
+   "IPH": -4.22,
+   "Frutas": -0.71,
+   "Frutas_brasileiras": -0.81,
+   "Frutas_importadas": 1.92,
+   "Hortalicas": -7.04,
+   "Hortalicas_folha_flor_haste": 0.07,
+   "Hortalicas_fruto": 0.58,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -10.21,
+   "Ovos": -4.6
+  },
+  {
+   "fim": "2026-07-29",
+   "periodo": "23/07 a 29/07",
+   "origem": "boletim",
+   "IPH": 1.79,
+   "Frutas": 1.47,
+   "Frutas_brasileiras": 1.61,
+   "Frutas_importadas": -1.99,
+   "Hortalicas": 2.36,
+   "Hortalicas_folha_flor_haste": -6.26,
+   "Hortalicas_fruto": 0.5,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 4.09,
+   "Ovos": 0.0
+  },
+  {
+   "fim": "2026-08-05",
+   "periodo": "30/07 a 05/08",
+   "origem": "boletim",
+   "IPH": 1.78,
+   "Frutas": 2.58,
+   "Frutas_brasileiras": 2.39,
+   "Frutas_importadas": 6.4,
+   "Hortalicas": 0.21,
+   "Hortalicas_folha_flor_haste": 15.73,
+   "Hortalicas_fruto": 10.03,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -4.47,
+   "Ovos": 7.19
+  },
+  {
+   "fim": "2026-08-12",
+   "periodo": "06/08 a 12/08",
+   "origem": "boletim",
+   "IPH": -1.18,
+   "Frutas": -2.99,
+   "Frutas_brasileiras": -3.51,
+   "Frutas_importadas": 8.68,
+   "Hortalicas": 0.66,
+   "Hortalicas_folha_flor_haste": -19.47,
+   "Hortalicas_fruto": -2.85,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 4.45,
+   "Ovos": 0.0
+  },
+  {
+   "fim": "2026-08-19",
+   "periodo": "13/08 a 19/08",
+   "origem": "boletim",
+   "IPH": -5.39,
+   "Frutas": -2.29,
+   "Frutas_brasileiras": -2.32,
+   "Frutas_importadas": -1.83,
+   "Hortalicas": -9.06,
+   "Hortalicas_folha_flor_haste": 9.07,
+   "Hortalicas_fruto": -20.41,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -5.64,
+   "Ovos": -2.24
+  },
+  {
+   "fim": "2026-08-26",
+   "periodo": "20/08 a 26/08",
+   "origem": "boletim",
+   "IPH": 6.08,
+   "Frutas": 2.34,
+   "Frutas_brasileiras": 2.22,
+   "Frutas_importadas": 4.98,
+   "Hortalicas": 11.67,
+   "Hortalicas_folha_flor_haste": -8.33,
+   "Hortalicas_fruto": 37.4,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 4.05,
+   "Ovos": -2.27
+  },
+  {
+   "fim": "2026-09-02",
+   "periodo": "27/08 a 02/09",
+   "origem": "informe",
+   "IPH": 12.85,
+   "Frutas": 4.37,
+   "Hortalicas": 22.93,
+   "Ovos": 4.75,
+   "Frutas_brasileiras": 4.47,
+   "Hortalicas_folha_flor_haste": 15.06,
+   "Frutas_importadas": 1.55,
+   "Hortalicas_fruto": 21.2,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 24.5
+  }
+ ],
+ "decomposicao": {
+  "2026-08": {
+   "subgrupos": [
+    {
+     "subgrupo": "Frutas - brasileiras",
+     "peso": 0.4671,
+     "variacao": -1.21,
+     "impacto_pp": -0.5652
+    },
+    {
+     "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
+     "peso": 0.3074,
+     "variacao": -2.26,
+     "impacto_pp": -0.6947
+    },
+    {
+     "subgrupo": "Hortalicas - fruto",
+     "peso": 0.1211,
+     "variacao": 17.58,
+     "impacto_pp": 2.1289
+    },
+    {
+     "subgrupo": "Ovos",
+     "peso": 0.0566,
+     "variacao": 2.38,
+     "impacto_pp": 0.1347
+    },
+    {
+     "subgrupo": "Hortalicas - folha, flor e haste",
+     "peso": 0.027,
+     "variacao": -8.2,
+     "impacto_pp": -0.2214
+    },
+    {
+     "subgrupo": "Frutas - importadas",
+     "peso": 0.021,
+     "variacao": 19.86,
+     "impacto_pp": 0.4171
+    }
+   ]
+  }
+ },
+ "produtos": {
+  "ABACATE": {
+   "rotulo": "Abacate",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0055,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 4.14,
+     "preco_ini": 4.09,
+     "variacao": 1.4
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 4.77,
+     "preco_ini": 4.14,
+     "variacao": 15.21
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 5.4,
+     "preco_ini": 4.77,
+     "variacao": 13.21
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 5.18,
+     "preco_ini": 5.4,
+     "variacao": -4.13
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 5.92,
+     "preco_ini": 5.18,
+     "variacao": 14.34
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 8.07,
+     "preco_ini": 5.92,
+     "variacao": 36.24
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 7.07,
+     "preco_ini": 8.07,
+     "variacao": -12.38
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 6.74,
+     "preco_ini": 7.07,
+     "variacao": -4.72
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 4.92,
+     "preco_ini": 6.74,
+     "variacao": -26.93
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 4.66,
+     "preco_ini": 4.92,
+     "variacao": -5.26
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 4.66,
+     "preco_ini": 4.66,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 2.55,
+     "preco_ini": 4.66,
+     "variacao": -45.26
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 2.64,
+     "preco_ini": 2.55,
+     "variacao": 3.58
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 3.09,
+     "preco_ini": 2.64,
+     "variacao": 16.79
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 3.24,
+     "preco_ini": 3.09,
+     "variacao": 4.79
+    }
+   ]
+  },
+  "ABACAXI PEROLA": {
+   "rotulo": "Abacaxi pérola",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0235,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 3.52,
+     "preco_ini": 3.89,
+     "variacao": -9.52
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 3.61,
+     "preco_ini": 3.52,
+     "variacao": 2.63
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 4.07,
+     "preco_ini": 3.61,
+     "variacao": 12.82
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 4.07,
+     "preco_ini": 4.07,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 3.43,
+     "preco_ini": 4.07,
+     "variacao": -15.91
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 3.43,
+     "preco_ini": 3.43,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 4.54,
+     "preco_ini": 3.43,
+     "variacao": 32.43
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 4.12,
+     "preco_ini": 4.54,
+     "variacao": -9.18
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 4.54,
+     "preco_ini": 4.12,
+     "variacao": 10.11
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 4.54,
+     "preco_ini": 4.54,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 4.72,
+     "preco_ini": 4.54,
+     "variacao": 4.08
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 4.26,
+     "preco_ini": 4.72,
+     "variacao": -9.8
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 3.98,
+     "preco_ini": 4.26,
+     "variacao": -6.52
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 3.61,
+     "preco_ini": 3.98,
+     "variacao": -9.3
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 3.61,
+     "preco_ini": 3.61,
+     "variacao": 0.0
+    }
+   ]
+  },
+  "BANANA MACA": {
+   "rotulo": "Banana-maçã",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0028,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 5.0,
+     "preco_ini": 5.83,
+     "variacao": -14.29
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 5.33,
+     "preco_ini": 5.0,
+     "variacao": 6.67
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 5.33,
+     "preco_ini": 5.33,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 5.17,
+     "preco_ini": 5.33,
+     "variacao": -3.12
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 5.83,
+     "preco_ini": 5.17,
+     "variacao": 12.9
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 8.0,
+     "preco_ini": 5.83,
+     "variacao": 37.14
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 7.17,
+     "preco_ini": 8.0,
+     "variacao": -10.42
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 6.5,
+     "preco_ini": 7.17,
+     "variacao": -9.3
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 6.5,
+     "preco_ini": 6.5,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 6.17,
+     "preco_ini": 6.5,
+     "variacao": -5.13
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 6.0,
+     "preco_ini": 6.17,
+     "variacao": -2.7
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 5.83,
+     "preco_ini": 6.0,
+     "variacao": -2.78
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 5.83,
+     "preco_ini": 5.83,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 6.0,
+     "preco_ini": 5.83,
+     "variacao": 2.86
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 5.33,
+     "preco_ini": 6.0,
+     "variacao": -11.11
+    }
+   ]
+  },
+  "BANANA NANICA": {
+   "rotulo": "Banana-nanica",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0322,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 2.0,
+     "preco_ini": 1.75,
+     "variacao": 14.29
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 2.92,
+     "preco_ini": 2.0,
+     "variacao": 45.83
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 3.67,
+     "preco_ini": 2.92,
+     "variacao": 25.71
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 3.83,
+     "preco_ini": 3.67,
+     "variacao": 4.55
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 3.83,
+     "preco_ini": 3.83,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 3.75,
+     "preco_ini": 3.83,
+     "variacao": -2.17
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 3.25,
+     "preco_ini": 3.75,
+     "variacao": -13.33
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 2.08,
+     "preco_ini": 3.25,
+     "variacao": -35.9
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 3.0,
+     "preco_ini": 2.08,
+     "variacao": 44.0
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 3.5,
+     "preco_ini": 3.0,
+     "variacao": 16.67
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 2.25,
+     "preco_ini": 3.5,
+     "variacao": -35.71
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 2.25,
+     "preco_ini": 2.25,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 2.5,
+     "preco_ini": 2.25,
+     "variacao": 11.11
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 3.75,
+     "preco_ini": 2.5,
+     "variacao": 50.0
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 2.5,
+     "preco_ini": 3.75,
+     "variacao": -33.33
+    }
+   ]
+  },
+  "BANANA PRATA": {
+   "rotulo": "Banana-prata",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0299,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 4.58,
+     "preco_ini": 3.75,
+     "variacao": 22.22
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 4.92,
+     "preco_ini": 4.58,
+     "variacao": 7.27
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 5.33,
+     "preco_ini": 4.92,
+     "variacao": 8.47
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 5.5,
+     "preco_ini": 5.33,
+     "variacao": 3.13
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 3.75,
+     "preco_ini": 5.5,
+     "variacao": -31.82
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 5.25,
+     "preco_ini": 3.75,
+     "variacao": 40.0
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 4.75,
+     "preco_ini": 5.25,
+     "variacao": -9.52
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 4.0,
+     "preco_ini": 4.75,
+     "variacao": -15.79
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 4.25,
+     "preco_ini": 4.0,
+     "variacao": 6.25
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 4.42,
+     "preco_ini": 4.25,
+     "variacao": 3.92
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 4.58,
+     "preco_ini": 4.42,
+     "variacao": 3.77
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 4.5,
+     "preco_ini": 4.58,
+     "variacao": -1.82
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 4.08,
+     "preco_ini": 4.5,
+     "variacao": -9.26
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 4.08,
+     "preco_ini": 4.08,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 3.75,
+     "preco_ini": 4.08,
+     "variacao": -8.16
+    }
+   ]
+  },
+  "COCO SECO": {
+   "rotulo": "Coco seco",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0029,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 6.92,
+     "preco_ini": 7.25,
+     "variacao": -4.6
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 5.67,
+     "preco_ini": 6.92,
+     "variacao": -18.07
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 4.5,
+     "preco_ini": 5.67,
+     "variacao": -20.59
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 3.67,
+     "preco_ini": 4.5,
+     "variacao": -18.52
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 3.58,
+     "preco_ini": 3.67,
+     "variacao": -2.27
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 3.33,
+     "preco_ini": 3.58,
+     "variacao": -6.98
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 3.25,
+     "preco_ini": 3.33,
+     "variacao": -2.5
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 3.25,
+     "preco_ini": 3.25,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 2.83,
+     "preco_ini": 3.25,
+     "variacao": -12.82
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 2.75,
+     "preco_ini": 2.83,
+     "variacao": -2.94
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 3.17,
+     "preco_ini": 2.75,
+     "variacao": 15.15
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 3.0,
+     "preco_ini": 3.17,
+     "variacao": -5.26
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 3.58,
+     "preco_ini": 3.0,
+     "variacao": 19.44
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 4.08,
+     "preco_ini": 3.58,
+     "variacao": 13.95
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 4.17,
+     "preco_ini": 4.08,
+     "variacao": 2.04
+    }
+   ]
+  },
+  "COCO VERDE": {
+   "rotulo": "Coco verde",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0069,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 1.49,
+     "preco_ini": 1.73,
+     "variacao": -14.1
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 1.33,
+     "preco_ini": 1.49,
+     "variacao": -10.45
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 1.4,
+     "preco_ini": 1.33,
+     "variacao": 5.0
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 1.53,
+     "preco_ini": 1.4,
+     "variacao": 9.52
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 1.4,
+     "preco_ini": 1.53,
+     "variacao": -8.7
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 1.67,
+     "preco_ini": 1.4,
+     "variacao": 19.05
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 3.33,
+     "preco_ini": 1.67,
+     "variacao": 100.0
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 2.33,
+     "preco_ini": 3.33,
+     "variacao": -30.0
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 2.33,
+     "preco_ini": 2.33,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 2.4,
+     "preco_ini": 2.33,
+     "variacao": 2.86
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 2.82,
+     "preco_ini": 2.4,
+     "variacao": 17.59
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 2.07,
+     "preco_ini": 2.82,
+     "variacao": -26.77
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 2.0,
+     "preco_ini": 2.07,
+     "variacao": -3.23
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 1.84,
+     "preco_ini": 2.0,
+     "variacao": -7.78
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 1.93,
+     "preco_ini": 1.84,
+     "variacao": 4.82
+    }
+   ]
+  },
+  "GOIABA VERMELHA": {
+   "rotulo": "Goiaba vermelha",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.006,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 5.67,
+     "preco_ini": 5.72,
+     "variacao": -0.93
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 5.83,
+     "preco_ini": 5.67,
+     "variacao": 2.88
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 6.94,
+     "preco_ini": 5.83,
+     "variacao": 19.04
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 7.78,
+     "preco_ini": 6.94,
+     "variacao": 12.06
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 7.5,
+     "preco_ini": 7.78,
+     "variacao": -3.56
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 9.28,
+     "preco_ini": 7.5,
+     "variacao": 23.69
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 11.66,
+     "preco_ini": 9.28,
+     "variacao": 25.69
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 4.72,
+     "preco_ini": 11.66,
+     "variacao": -59.52
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 5.72,
+     "preco_ini": 4.72,
+     "variacao": 21.19
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 5.22,
+     "preco_ini": 5.72,
+     "variacao": -8.74
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 4.77,
+     "preco_ini": 5.22,
+     "variacao": -8.56
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 4.77,
+     "preco_ini": 4.77,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 5.0,
+     "preco_ini": 4.77,
+     "variacao": 4.68
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 6.11,
+     "preco_ini": 5.0,
+     "variacao": 22.21
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 6.89,
+     "preco_ini": 6.11,
+     "variacao": 12.77
+    }
+   ]
+  },
+  "LARANJA PERA": {
+   "rotulo": "Laranja-pera",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0283,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 2.22,
+     "preco_ini": 2.83,
+     "variacao": -21.76
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 2.33,
+     "preco_ini": 2.22,
+     "variacao": 5.26
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 2.5,
+     "preco_ini": 2.33,
+     "variacao": 7.14
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 2.75,
+     "preco_ini": 2.5,
+     "variacao": 10.0
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 2.92,
+     "preco_ini": 2.75,
+     "variacao": 6.06
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 2.58,
+     "preco_ini": 2.92,
+     "variacao": -11.43
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 2.5,
+     "preco_ini": 2.58,
+     "variacao": -3.23
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 2.5,
+     "preco_ini": 2.5,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 2.5,
+     "preco_ini": 2.5,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 2.25,
+     "preco_ini": 2.5,
+     "variacao": -10.0
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 2.38,
+     "preco_ini": 2.25,
+     "variacao": 5.93
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 2.25,
+     "preco_ini": 2.38,
+     "variacao": -5.59
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 1.72,
+     "preco_ini": 2.25,
+     "variacao": -23.7
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 1.87,
+     "preco_ini": 1.72,
+     "variacao": 8.74
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 2.0,
+     "preco_ini": 1.87,
+     "variacao": 7.14
+    }
+   ]
+  },
+  "LIMAO TAHITI": {
+   "rotulo": "Limão-tahiti",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0369,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 2.75,
+     "preco_ini": 2.33,
+     "variacao": 17.86
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 3.42,
+     "preco_ini": 2.75,
+     "variacao": 24.24
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 5.17,
+     "preco_ini": 3.42,
+     "variacao": 51.22
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 6.5,
+     "preco_ini": 5.17,
+     "variacao": 25.81
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 5.5,
+     "preco_ini": 6.5,
+     "variacao": -15.38
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 3.67,
+     "preco_ini": 5.5,
+     "variacao": -33.33
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 3.75,
+     "preco_ini": 3.67,
+     "variacao": 2.27
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 2.33,
+     "preco_ini": 3.75,
+     "variacao": -37.78
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 2.58,
+     "preco_ini": 2.33,
+     "variacao": 10.71
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 2.5,
+     "preco_ini": 2.58,
+     "variacao": -3.23
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 2.0,
+     "preco_ini": 2.5,
+     "variacao": -20.0
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 2.33,
+     "preco_ini": 2.0,
+     "variacao": 16.67
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 2.92,
+     "preco_ini": 2.33,
+     "variacao": 25.0
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 5.83,
+     "preco_ini": 2.92,
+     "variacao": 100.0
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 6.83,
+     "preco_ini": 5.83,
+     "variacao": 17.14
+    }
+   ]
+  },
+  "MACA": {
+   "rotulo": "Maçã",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0643,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 8.54,
+     "preco_ini": 8.66,
+     "variacao": -1.42
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 8.72,
+     "preco_ini": 8.54,
+     "variacao": 2.17
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 8.83,
+     "preco_ini": 8.72,
+     "variacao": 1.27
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 8.97,
+     "preco_ini": 8.83,
+     "variacao": 1.56
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 9.13,
+     "preco_ini": 8.97,
+     "variacao": 1.77
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 8.98,
+     "preco_ini": 9.13,
+     "variacao": -1.69
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 10.05,
+     "preco_ini": 8.98,
+     "variacao": 11.99
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 10.71,
+     "preco_ini": 10.05,
+     "variacao": 6.58
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 8.34,
+     "preco_ini": 10.71,
+     "variacao": -22.17
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 6.64,
+     "preco_ini": 8.34,
+     "variacao": -20.34
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 6.16,
+     "preco_ini": 6.64,
+     "variacao": -7.23
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 6.07,
+     "preco_ini": 6.16,
+     "variacao": -1.57
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 5.37,
+     "preco_ini": 6.07,
+     "variacao": -11.53
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 5.29,
+     "preco_ini": 5.37,
+     "variacao": -1.52
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 6.32,
+     "preco_ini": 5.29,
+     "variacao": 19.57
+    }
+   ]
+  },
+  "MAMAO FORMOSA": {
+   "rotulo": "Mamão formosa",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.021,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 3.26,
+     "preco_ini": 2.55,
+     "variacao": 27.55
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 5.39,
+     "preco_ini": 3.26,
+     "variacao": 65.4
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 2.91,
+     "preco_ini": 5.39,
+     "variacao": -46.04
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 4.74,
+     "preco_ini": 2.91,
+     "variacao": 62.96
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 3.53,
+     "preco_ini": 4.74,
+     "variacao": -25.4
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 5.48,
+     "preco_ini": 3.53,
+     "variacao": 55.09
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 5.48,
+     "preco_ini": 5.48,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 3.24,
+     "preco_ini": 5.48,
+     "variacao": -40.94
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 3.81,
+     "preco_ini": 3.24,
+     "variacao": 17.82
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 4.15,
+     "preco_ini": 3.81,
+     "variacao": 8.74
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 3.26,
+     "preco_ini": 4.15,
+     "variacao": -21.46
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 2.91,
+     "preco_ini": 3.26,
+     "variacao": -10.75
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 3.7,
+     "preco_ini": 2.91,
+     "variacao": 27.29
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 5.11,
+     "preco_ini": 3.7,
+     "variacao": 38.02
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 4.31,
+     "preco_ini": 5.11,
+     "variacao": -15.54
+    }
+   ]
+  },
+  "MAMAO HAWAY": {
+   "rotulo": "Mamão havai",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0245,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 7.92,
+     "preco_ini": 3.41,
+     "variacao": 131.93
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 3.96,
+     "preco_ini": 7.92,
+     "variacao": -50.02
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 3.58,
+     "preco_ini": 3.96,
+     "variacao": -9.52
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 4.37,
+     "preco_ini": 3.58,
+     "variacao": 22.16
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 3.96,
+     "preco_ini": 4.37,
+     "variacao": -9.53
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 4.54,
+     "preco_ini": 3.96,
+     "variacao": 14.74
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 6.08,
+     "preco_ini": 4.54,
+     "variacao": 33.99
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 5.21,
+     "preco_ini": 6.08,
+     "variacao": -14.41
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 7.79,
+     "preco_ini": 5.21,
+     "variacao": 49.62
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 4.71,
+     "preco_ini": 7.79,
+     "variacao": -39.58
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 4.54,
+     "preco_ini": 4.71,
+     "variacao": -3.54
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 8.75,
+     "preco_ini": 4.54,
+     "variacao": 92.73
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 3.96,
+     "preco_ini": 8.75,
+     "variacao": -54.78
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 6.42,
+     "preco_ini": 3.96,
+     "variacao": 62.17
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 5.12,
+     "preco_ini": 6.42,
+     "variacao": -20.16
+    }
+   ]
+  },
+  "MANGA": {
+   "rotulo": "Manga",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0379,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 5.74,
+     "preco_ini": 6.48,
+     "variacao": -11.39
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 3.25,
+     "preco_ini": 5.74,
+     "variacao": -43.3
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 3.7,
+     "preco_ini": 3.25,
+     "variacao": 13.6
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 4.66,
+     "preco_ini": 3.7,
+     "variacao": 26.11
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 3.88,
+     "preco_ini": 4.66,
+     "variacao": -16.74
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 3.2,
+     "preco_ini": 3.88,
+     "variacao": -17.49
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 3.24,
+     "preco_ini": 3.2,
+     "variacao": 1.26
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 3.29,
+     "preco_ini": 3.24,
+     "variacao": 1.49
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 3.77,
+     "preco_ini": 3.29,
+     "variacao": 14.5
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 3.6,
+     "preco_ini": 3.77,
+     "variacao": -4.46
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 4.48,
+     "preco_ini": 3.6,
+     "variacao": 24.48
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 4.58,
+     "preco_ini": 4.48,
+     "variacao": 2.26
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 6.16,
+     "preco_ini": 4.58,
+     "variacao": 34.44
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 5.99,
+     "preco_ini": 6.16,
+     "variacao": -2.85
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 5.33,
+     "preco_ini": 5.99,
+     "variacao": -10.98
+    }
+   ]
+  },
+  "MARACUJA AZEDO": {
+   "rotulo": "Maracujá azedo",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0143,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 4.3,
+     "preco_ini": 5.83,
+     "variacao": -26.19
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 4.58,
+     "preco_ini": 4.3,
+     "variacao": 6.43
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 6.39,
+     "preco_ini": 4.58,
+     "variacao": 39.45
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 8.47,
+     "preco_ini": 6.39,
+     "variacao": 32.57
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 5.41,
+     "preco_ini": 8.47,
+     "variacao": -36.06
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 7.08,
+     "preco_ini": 5.41,
+     "variacao": 30.85
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 8.33,
+     "preco_ini": 7.08,
+     "variacao": 17.6
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 5.69,
+     "preco_ini": 8.33,
+     "variacao": -31.65
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 6.8,
+     "preco_ini": 5.69,
+     "variacao": 19.5
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 4.72,
+     "preco_ini": 6.8,
+     "variacao": -30.67
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 5.14,
+     "preco_ini": 4.72,
+     "variacao": 8.9
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 4.71,
+     "preco_ini": 5.14,
+     "variacao": -8.37
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 5.41,
+     "preco_ini": 4.71,
+     "variacao": 15.01
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 5.27,
+     "preco_ini": 5.41,
+     "variacao": -2.59
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 9.44,
+     "preco_ini": 5.27,
+     "variacao": 79.01
+    }
+   ]
+  },
+  "MELANCIA": {
+   "rotulo": "Melancia",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0361,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 1.2,
+     "preco_ini": 2.33,
+     "variacao": -48.57
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 2.27,
+     "preco_ini": 1.2,
+     "variacao": 88.89
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 1.9,
+     "preco_ini": 2.27,
+     "variacao": -16.18
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 2.03,
+     "preco_ini": 1.9,
+     "variacao": 7.02
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 1.9,
+     "preco_ini": 2.03,
+     "variacao": -6.56
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 1.83,
+     "preco_ini": 1.9,
+     "variacao": -3.51
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 1.57,
+     "preco_ini": 1.83,
+     "variacao": -14.55
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 1.83,
+     "preco_ini": 1.57,
+     "variacao": 17.02
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 1.8,
+     "preco_ini": 1.83,
+     "variacao": -1.82
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 2.6,
+     "preco_ini": 1.8,
+     "variacao": 44.44
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 3.2,
+     "preco_ini": 2.6,
+     "variacao": 23.08
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 1.8,
+     "preco_ini": 3.2,
+     "variacao": -43.75
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 1.53,
+     "preco_ini": 1.8,
+     "variacao": -14.81
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 3.5,
+     "preco_ini": 1.53,
+     "variacao": 128.26
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 1.8,
+     "preco_ini": 3.5,
+     "variacao": -48.57
+    }
+   ]
+  },
+  "MELAO AMARELO": {
+   "rotulo": "Melão amarelo",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0115,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 2.64,
+     "preco_ini": 2.82,
+     "variacao": -6.39
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 3.71,
+     "preco_ini": 2.64,
+     "variacao": 40.83
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 4.61,
+     "preco_ini": 3.71,
+     "variacao": 24.15
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 4.61,
+     "preco_ini": 4.61,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 3.97,
+     "preco_ini": 4.61,
+     "variacao": -13.88
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 3.84,
+     "preco_ini": 3.97,
+     "variacao": -3.27
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 3.84,
+     "preco_ini": 3.84,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 3.84,
+     "preco_ini": 3.84,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 3.33,
+     "preco_ini": 3.84,
+     "variacao": -13.28
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 5.0,
+     "preco_ini": 3.33,
+     "variacao": 50.05
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 5.89,
+     "preco_ini": 5.0,
+     "variacao": 17.95
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 5.0,
+     "preco_ini": 5.89,
+     "variacao": -15.21
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 4.1,
+     "preco_ini": 5.0,
+     "variacao": -17.95
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 3.92,
+     "preco_ini": 4.1,
+     "variacao": -4.39
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 4.61,
+     "preco_ini": 3.92,
+     "variacao": 17.69
+    }
+   ]
+  },
+  "MORANGO": {
+   "rotulo": "Morango",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0289,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 26.39,
+     "preco_ini": 29.16,
+     "variacao": -9.52
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 37.5,
+     "preco_ini": 26.39,
+     "variacao": 42.1
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 16.94,
+     "preco_ini": 37.5,
+     "variacao": -54.82
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 13.33,
+     "preco_ini": 16.94,
+     "variacao": -21.29
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 18.89,
+     "preco_ini": 13.33,
+     "variacao": 41.65
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 16.11,
+     "preco_ini": 18.89,
+     "variacao": -14.7
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 13.05,
+     "preco_ini": 16.11,
+     "variacao": -18.97
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 19.72,
+     "preco_ini": 13.05,
+     "variacao": 51.07
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 17.5,
+     "preco_ini": 19.72,
+     "variacao": -11.27
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 22.5,
+     "preco_ini": 17.5,
+     "variacao": 28.58
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 23.61,
+     "preco_ini": 22.5,
+     "variacao": 4.93
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 20.83,
+     "preco_ini": 23.61,
+     "variacao": -11.76
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 34.72,
+     "preco_ini": 20.83,
+     "variacao": 66.67
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 20.83,
+     "preco_ini": 34.72,
+     "variacao": -40.0
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 16.11,
+     "preco_ini": 20.83,
+     "variacao": -22.66
+    }
+   ]
+  },
+  "PESSEGO": {
+   "rotulo": "Pêssego",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0002,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 8.61,
+     "preco_ini": 8.61,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 8.61,
+     "preco_ini": 8.61,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 8.61,
+     "preco_ini": 8.61,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 15.67,
+     "preco_ini": 8.61,
+     "variacao": 82.03
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 10.55,
+     "preco_ini": 15.67,
+     "variacao": -32.64
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 8.61,
+     "preco_ini": 10.55,
+     "variacao": -18.41
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 5.89,
+     "preco_ini": 8.61,
+     "variacao": -31.63
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 5.83,
+     "preco_ini": 5.89,
+     "variacao": -0.96
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 6.66,
+     "preco_ini": 5.83,
+     "variacao": 14.29
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 6.66,
+     "preco_ini": 6.66,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 6.66,
+     "preco_ini": 6.66,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 6.66,
+     "preco_ini": 6.66,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 6.66,
+     "preco_ini": 6.66,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 6.66,
+     "preco_ini": 6.66,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 6.66,
+     "preco_ini": 6.66,
+     "variacao": 0.0
+    }
+   ]
+  },
+  "TANGERINA PONKAN": {
+   "rotulo": "Tangerina ponkan",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0159,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 3.05,
+     "preco_ini": 3.14,
+     "variacao": -2.97
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 3.05,
+     "preco_ini": 3.05,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 3.33,
+     "preco_ini": 3.05,
+     "variacao": 9.07
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 4.35,
+     "preco_ini": 3.33,
+     "variacao": 30.66
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 4.53,
+     "preco_ini": 4.35,
+     "variacao": 4.29
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 7.96,
+     "preco_ini": 4.53,
+     "variacao": 75.51
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 6.66,
+     "preco_ini": 7.96,
+     "variacao": -16.3
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 4.67,
+     "preco_ini": 6.66,
+     "variacao": -29.93
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 6.48,
+     "preco_ini": 4.67,
+     "variacao": 38.79
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 4.44,
+     "preco_ini": 6.48,
+     "variacao": -31.45
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 3.7,
+     "preco_ini": 4.44,
+     "variacao": -16.67
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 2.68,
+     "preco_ini": 3.7,
+     "variacao": -27.48
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 2.31,
+     "preco_ini": 2.68,
+     "variacao": -13.91
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 2.87,
+     "preco_ini": 2.31,
+     "variacao": 24.1
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 3.42,
+     "preco_ini": 2.87,
+     "variacao": 19.3
+    }
+   ]
+  },
+  "UVA NIAGARA": {
+   "rotulo": "Uva niágara",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0048,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 10.2,
+     "preco_ini": 9.0,
+     "variacao": 13.33
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 8.53,
+     "preco_ini": 10.2,
+     "variacao": -16.34
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 10.2,
+     "preco_ini": 8.53,
+     "variacao": 19.53
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 10.0,
+     "preco_ini": 10.2,
+     "variacao": -1.96
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 11.53,
+     "preco_ini": 10.0,
+     "variacao": 15.33
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 11.33,
+     "preco_ini": 11.53,
+     "variacao": -1.73
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 11.0,
+     "preco_ini": 11.33,
+     "variacao": -2.94
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 10.0,
+     "preco_ini": 11.0,
+     "variacao": -9.09
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 10.0,
+     "preco_ini": 10.0,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 11.53,
+     "preco_ini": 10.0,
+     "variacao": 15.33
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 12.0,
+     "preco_ini": 11.53,
+     "variacao": 4.05
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 10.0,
+     "preco_ini": 12.0,
+     "variacao": -16.67
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 11.33,
+     "preco_ini": 10.0,
+     "variacao": 13.33
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 9.33,
+     "preco_ini": 11.33,
+     "variacao": -17.65
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 10.33,
+     "preco_ini": 9.33,
+     "variacao": 10.71
+    }
+   ]
+  },
+  "UVA VITORIA": {
+   "rotulo": "Uva vitória",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - brasileiras",
+   "peso_iph": 0.0328,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 10.67,
+     "preco_ini": 10.0,
+     "variacao": 6.67
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 9.0,
+     "preco_ini": 10.67,
+     "variacao": -15.63
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 13.0,
+     "preco_ini": 9.0,
+     "variacao": 44.44
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 13.67,
+     "preco_ini": 13.0,
+     "variacao": 5.13
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 13.33,
+     "preco_ini": 13.67,
+     "variacao": -2.44
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 11.0,
+     "preco_ini": 13.33,
+     "variacao": -17.5
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 12.0,
+     "preco_ini": 11.0,
+     "variacao": 9.09
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 11.33,
+     "preco_ini": 12.0,
+     "variacao": -5.56
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 15.0,
+     "preco_ini": 11.33,
+     "variacao": 32.35
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 15.5,
+     "preco_ini": 15.0,
+     "variacao": 3.33
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 10.33,
+     "preco_ini": 15.5,
+     "variacao": -33.33
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 12.0,
+     "preco_ini": 10.33,
+     "variacao": 16.13
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 12.0,
+     "preco_ini": 12.0,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 9.67,
+     "preco_ini": 12.0,
+     "variacao": -19.44
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 11.13,
+     "preco_ini": 9.67,
+     "variacao": 15.17
+    }
+   ]
+  },
+  "MACA IMPORTADA RED DELICIOUS": {
+   "rotulo": "Maçã importada (Red Delicious)",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - importadas",
+   "peso_iph": 0.0033,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 10.42,
+     "preco_ini": 10.5,
+     "variacao": -0.79
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 10.0,
+     "preco_ini": 10.42,
+     "variacao": -4.0
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 10.17,
+     "preco_ini": 10.0,
+     "variacao": 1.67
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 9.0,
+     "preco_ini": 10.17,
+     "variacao": -11.48
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 9.5,
+     "preco_ini": 9.0,
+     "variacao": 5.56
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 9.67,
+     "preco_ini": 9.5,
+     "variacao": 1.75
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 10.08,
+     "preco_ini": 9.67,
+     "variacao": 4.31
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 10.17,
+     "preco_ini": 10.08,
+     "variacao": 0.83
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 12.5,
+     "preco_ini": 10.17,
+     "variacao": 22.95
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 13.17,
+     "preco_ini": 12.5,
+     "variacao": 5.33
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 11.33,
+     "preco_ini": 13.17,
+     "variacao": -13.92
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 10.67,
+     "preco_ini": 11.33,
+     "variacao": -5.88
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 11.08,
+     "preco_ini": 10.67,
+     "variacao": 3.91
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 9.83,
+     "preco_ini": 11.08,
+     "variacao": -11.28
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 11.5,
+     "preco_ini": 9.83,
+     "variacao": 16.95
+    }
+   ]
+  },
+  "PERA IMPORTADA WILLIAMS": {
+   "rotulo": "Pera importada (Williams)",
+   "grupo": "Frutas",
+   "subgrupo": "Frutas - importadas",
+   "peso_iph": 0.0177,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 8.0,
+     "preco_ini": 8.33,
+     "variacao": -4.0
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 8.33,
+     "preco_ini": 8.0,
+     "variacao": 4.17
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 9.25,
+     "preco_ini": 8.33,
+     "variacao": 11.0
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 10.67,
+     "preco_ini": 9.25,
+     "variacao": 15.32
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 13.67,
+     "preco_ini": 10.67,
+     "variacao": 28.13
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 15.5,
+     "preco_ini": 13.67,
+     "variacao": 13.41
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 14.0,
+     "preco_ini": 15.5,
+     "variacao": -9.68
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 14.17,
+     "preco_ini": 14.0,
+     "variacao": 1.19
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 6.83,
+     "preco_ini": 14.17,
+     "variacao": -51.76
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 7.33,
+     "preco_ini": 6.83,
+     "variacao": 7.32
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 7.42,
+     "preco_ini": 7.33,
+     "variacao": 1.14
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 7.67,
+     "preco_ini": 7.42,
+     "variacao": 3.37
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 7.42,
+     "preco_ini": 7.67,
+     "variacao": -3.26
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 8.17,
+     "preco_ini": 7.42,
+     "variacao": 10.11
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 9.83,
+     "preco_ini": 8.17,
+     "variacao": 20.41
+    }
+   ]
+  },
+  "ALFACE LISA": {
+   "rotulo": "Alface lisa",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - folha, flor e haste",
+   "peso_iph": 0.0023,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 8.67,
+     "preco_ini": 9.33,
+     "variacao": -7.14
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 8.67,
+     "preco_ini": 8.67,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 6.67,
+     "preco_ini": 8.67,
+     "variacao": -23.08
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 7.07,
+     "preco_ini": 6.67,
+     "variacao": 6.0
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 7.07,
+     "preco_ini": 7.07,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 8.67,
+     "preco_ini": 7.07,
+     "variacao": 22.64
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 7.73,
+     "preco_ini": 8.67,
+     "variacao": -10.77
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 10.67,
+     "preco_ini": 7.73,
+     "variacao": 37.93
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 17.33,
+     "preco_ini": 10.67,
+     "variacao": 62.5
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 16.67,
+     "preco_ini": 17.33,
+     "variacao": -3.85
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 10.67,
+     "preco_ini": 16.67,
+     "variacao": -36.0
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 8.67,
+     "preco_ini": 10.67,
+     "variacao": -18.75
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 10.67,
+     "preco_ini": 8.67,
+     "variacao": 23.08
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 12.67,
+     "preco_ini": 10.67,
+     "variacao": 18.75
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 10.67,
+     "preco_ini": 12.67,
+     "variacao": -15.79
+    }
+   ]
+  },
+  "ALHO PORO": {
+   "rotulo": "Alho-poró",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - folha, flor e haste",
+   "peso_iph": 0.0009,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 7.58,
+     "preco_ini": 7.58,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 7.58,
+     "preco_ini": 7.58,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 8.08,
+     "preco_ini": 7.58,
+     "variacao": 6.67
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 6.06,
+     "preco_ini": 8.08,
+     "variacao": -25.0
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 7.58,
+     "preco_ini": 6.06,
+     "variacao": 25.0
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 7.58,
+     "preco_ini": 7.58,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 7.58,
+     "preco_ini": 7.58,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 9.09,
+     "preco_ini": 7.58,
+     "variacao": 20.0
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 9.09,
+     "preco_ini": 9.09,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 7.58,
+     "preco_ini": 9.09,
+     "variacao": -16.67
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 7.58,
+     "preco_ini": 7.58,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 9.09,
+     "preco_ini": 7.58,
+     "variacao": 20.0
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 7.58,
+     "preco_ini": 9.09,
+     "variacao": -16.67
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 7.07,
+     "preco_ini": 7.58,
+     "variacao": -6.67
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 7.58,
+     "preco_ini": 7.07,
+     "variacao": 7.14
+    }
+   ]
+  },
+  "BROCOLIS NINJA": {
+   "rotulo": "Brócolis ninja",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - folha, flor e haste",
+   "peso_iph": 0.0093,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 7.36,
+     "preco_ini": 9.02,
+     "variacao": -18.39
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 6.67,
+     "preco_ini": 7.36,
+     "variacao": -9.4
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 5.55,
+     "preco_ini": 6.67,
+     "variacao": -16.75
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 7.36,
+     "preco_ini": 5.55,
+     "variacao": 32.58
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 7.78,
+     "preco_ini": 7.36,
+     "variacao": 5.66
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 7.36,
+     "preco_ini": 7.78,
+     "variacao": -5.36
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 7.08,
+     "preco_ini": 7.36,
+     "variacao": -3.74
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 8.74,
+     "preco_ini": 7.08,
+     "variacao": 23.41
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 11.1,
+     "preco_ini": 8.74,
+     "variacao": 26.98
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 13.19,
+     "preco_ini": 11.1,
+     "variacao": 18.84
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 9.02,
+     "preco_ini": 13.19,
+     "variacao": -31.65
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 9.02,
+     "preco_ini": 9.02,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 11.1,
+     "preco_ini": 9.02,
+     "variacao": 23.11
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 7.36,
+     "preco_ini": 11.1,
+     "variacao": -33.71
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 6.94,
+     "preco_ini": 7.36,
+     "variacao": -5.66
+    }
+   ]
+  },
+  "COUVE": {
+   "rotulo": "Couve",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - folha, flor e haste",
+   "peso_iph": 0.0008,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 7.84,
+     "preco_ini": 10.0,
+     "variacao": -21.57
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 10.39,
+     "preco_ini": 7.84,
+     "variacao": 32.5
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 9.41,
+     "preco_ini": 10.39,
+     "variacao": -9.43
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 9.41,
+     "preco_ini": 9.41,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 7.84,
+     "preco_ini": 9.41,
+     "variacao": -16.67
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 9.41,
+     "preco_ini": 7.84,
+     "variacao": 20.0
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 7.84,
+     "preco_ini": 9.41,
+     "variacao": -16.67
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 15.69,
+     "preco_ini": 7.84,
+     "variacao": 100.0
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 21.57,
+     "preco_ini": 15.69,
+     "variacao": 37.5
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 15.69,
+     "preco_ini": 21.57,
+     "variacao": -27.27
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 9.41,
+     "preco_ini": 15.69,
+     "variacao": -40.0
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 18.63,
+     "preco_ini": 9.41,
+     "variacao": 97.92
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 12.75,
+     "preco_ini": 18.63,
+     "variacao": -31.58
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 10.39,
+     "preco_ini": 12.75,
+     "variacao": -18.46
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 12.75,
+     "preco_ini": 10.39,
+     "variacao": 22.64
+    }
+   ]
+  },
+  "COUVE-FLOR": {
+   "rotulo": "Couve-flor",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - folha, flor e haste",
+   "peso_iph": 0.0044,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 1.96,
+     "preco_ini": 3.89,
+     "variacao": -49.52
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 2.41,
+     "preco_ini": 1.96,
+     "variacao": 22.64
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 2.22,
+     "preco_ini": 2.41,
+     "variacao": -7.69
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 1.7,
+     "preco_ini": 2.22,
+     "variacao": -23.33
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 3.52,
+     "preco_ini": 1.7,
+     "variacao": 106.52
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 2.41,
+     "preco_ini": 3.52,
+     "variacao": -31.58
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 2.41,
+     "preco_ini": 2.41,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 3.89,
+     "preco_ini": 2.41,
+     "variacao": 61.54
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 4.44,
+     "preco_ini": 3.89,
+     "variacao": 14.29
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 4.81,
+     "preco_ini": 4.44,
+     "variacao": 8.33
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 4.07,
+     "preco_ini": 4.81,
+     "variacao": -15.38
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 5.19,
+     "preco_ini": 4.07,
+     "variacao": 27.27
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 3.52,
+     "preco_ini": 5.19,
+     "variacao": -32.14
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 2.41,
+     "preco_ini": 3.52,
+     "variacao": -31.58
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 2.78,
+     "preco_ini": 2.41,
+     "variacao": 15.38
+    }
+   ]
+  },
+  "REPOLHO HIBRIDO": {
+   "rotulo": "Repolho híbrido",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - folha, flor e haste",
+   "peso_iph": 0.0073,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 1.05,
+     "preco_ini": 1.47,
+     "variacao": -28.41
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 1.0,
+     "preco_ini": 1.05,
+     "variacao": -4.76
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 1.0,
+     "preco_ini": 1.0,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 1.0,
+     "preco_ini": 1.0,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 1.2,
+     "preco_ini": 1.0,
+     "variacao": 20.0
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 1.33,
+     "preco_ini": 1.2,
+     "variacao": 11.11
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 1.55,
+     "preco_ini": 1.33,
+     "variacao": 16.25
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 1.0,
+     "preco_ini": 1.55,
+     "variacao": -35.48
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 2.0,
+     "preco_ini": 1.0,
+     "variacao": 100.0
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 2.08,
+     "preco_ini": 2.0,
+     "variacao": 4.17
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 3.42,
+     "preco_ini": 2.08,
+     "variacao": 64.0
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 1.75,
+     "preco_ini": 3.42,
+     "variacao": -48.78
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 2.0,
+     "preco_ini": 1.75,
+     "variacao": 14.29
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 1.55,
+     "preco_ini": 2.0,
+     "variacao": -22.5
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 1.25,
+     "preco_ini": 1.55,
+     "variacao": -19.35
+    }
+   ]
+  },
+  "REPOLHO ROXO": {
+   "rotulo": "Repolho roxo",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - folha, flor e haste",
+   "peso_iph": 0.002,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 1.5,
+     "preco_ini": 2.5,
+     "variacao": -40.0
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 2.08,
+     "preco_ini": 1.5,
+     "variacao": 38.89
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 2.17,
+     "preco_ini": 2.08,
+     "variacao": 4.0
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 1.55,
+     "preco_ini": 2.17,
+     "variacao": -28.46
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 1.2,
+     "preco_ini": 1.55,
+     "variacao": -22.58
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 1.33,
+     "preco_ini": 1.2,
+     "variacao": 11.11
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 1.42,
+     "preco_ini": 1.33,
+     "variacao": 6.25
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 1.3,
+     "preco_ini": 1.42,
+     "variacao": -8.24
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 2.75,
+     "preco_ini": 1.3,
+     "variacao": 111.54
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 3.0,
+     "preco_ini": 2.75,
+     "variacao": 9.09
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 4.25,
+     "preco_ini": 3.0,
+     "variacao": 41.67
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 4.25,
+     "preco_ini": 4.25,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 4.42,
+     "preco_ini": 4.25,
+     "variacao": 3.92
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 3.75,
+     "preco_ini": 4.42,
+     "variacao": -15.09
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 2.17,
+     "preco_ini": 3.75,
+     "variacao": -42.22
+    }
+   ]
+  },
+  "ABOBRINHA ITALIANA": {
+   "rotulo": "Abobrinha italiana",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - fruto",
+   "peso_iph": 0.0033,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 1.47,
+     "preco_ini": 1.66,
+     "variacao": -11.24
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 1.38,
+     "preco_ini": 1.47,
+     "variacao": -6.11
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 2.31,
+     "preco_ini": 1.38,
+     "variacao": 66.99
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 1.24,
+     "preco_ini": 2.31,
+     "variacao": -46.46
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 0.79,
+     "preco_ini": 1.24,
+     "variacao": -35.85
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 0.98,
+     "preco_ini": 0.79,
+     "variacao": 23.53
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 0.98,
+     "preco_ini": 0.98,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 2.5,
+     "preco_ini": 0.98,
+     "variacao": 154.76
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 3.51,
+     "preco_ini": 2.5,
+     "variacao": 40.72
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 4.53,
+     "preco_ini": 3.51,
+     "variacao": 29.03
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 1.16,
+     "preco_ini": 4.53,
+     "variacao": -74.34
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 3.05,
+     "preco_ini": 1.16,
+     "variacao": 162.18
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 1.66,
+     "preco_ini": 3.05,
+     "variacao": -45.57
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 1.2,
+     "preco_ini": 1.66,
+     "variacao": -27.71
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 1.66,
+     "preco_ini": 1.2,
+     "variacao": 38.33
+    }
+   ]
+  },
+  "ABOBRINHA MENINA": {
+   "rotulo": "Abobrinha menina",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - fruto",
+   "peso_iph": 0.0014,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 4.72,
+     "preco_ini": 2.5,
+     "variacao": 89.05
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 2.22,
+     "preco_ini": 4.72,
+     "variacao": -52.97
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 2.77,
+     "preco_ini": 2.22,
+     "variacao": 24.92
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 2.5,
+     "preco_ini": 2.77,
+     "variacao": -9.98
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 1.9,
+     "preco_ini": 2.5,
+     "variacao": -23.9
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 1.75,
+     "preco_ini": 1.9,
+     "variacao": -7.72
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 2.4,
+     "preco_ini": 1.75,
+     "variacao": 37.07
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 4.16,
+     "preco_ini": 2.4,
+     "variacao": 73.09
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 3.51,
+     "preco_ini": 4.16,
+     "variacao": -15.54
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 3.33,
+     "preco_ini": 3.51,
+     "variacao": -5.31
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 2.4,
+     "preco_ini": 3.33,
+     "variacao": -27.76
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 3.42,
+     "preco_ini": 2.4,
+     "variacao": 42.3
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 4.07,
+     "preco_ini": 3.42,
+     "variacao": 18.91
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 2.4,
+     "preco_ini": 4.07,
+     "variacao": -40.9
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 2.31,
+     "preco_ini": 2.4,
+     "variacao": -3.88
+    }
+   ]
+  },
+  "BERINJELA": {
+   "rotulo": "Berinjela",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - fruto",
+   "peso_iph": 0.0028,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 2.91,
+     "preco_ini": 1.86,
+     "variacao": 56.91
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 3.75,
+     "preco_ini": 2.91,
+     "variacao": 28.6
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 2.78,
+     "preco_ini": 3.75,
+     "variacao": -25.89
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 2.08,
+     "preco_ini": 2.78,
+     "variacao": -25.09
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 3.75,
+     "preco_ini": 2.08,
+     "variacao": 80.13
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 1.8,
+     "preco_ini": 3.75,
+     "variacao": -51.96
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 1.8,
+     "preco_ini": 1.8,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 2.91,
+     "preco_ini": 1.8,
+     "variacao": 61.85
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 2.64,
+     "preco_ini": 2.91,
+     "variacao": -9.5
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 3.47,
+     "preco_ini": 2.64,
+     "variacao": 31.48
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 2.5,
+     "preco_ini": 3.47,
+     "variacao": -27.98
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 2.3,
+     "preco_ini": 2.5,
+     "variacao": -7.74
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 2.08,
+     "preco_ini": 2.3,
+     "variacao": -9.7
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 4.44,
+     "preco_ini": 2.08,
+     "variacao": 113.46
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 3.47,
+     "preco_ini": 4.44,
+     "variacao": -21.92
+    }
+   ]
+  },
+  "CHUCHU": {
+   "rotulo": "Chuchu",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - fruto",
+   "peso_iph": 0.0037,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 0.92,
+     "preco_ini": 0.92,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 0.92,
+     "preco_ini": 0.92,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 1.31,
+     "preco_ini": 0.92,
+     "variacao": 41.88
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 2.19,
+     "preco_ini": 1.31,
+     "variacao": 66.92
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 1.14,
+     "preco_ini": 2.19,
+     "variacao": -48.02
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 0.92,
+     "preco_ini": 1.14,
+     "variacao": -18.77
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 0.83,
+     "preco_ini": 0.92,
+     "variacao": -9.75
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 7.54,
+     "preco_ini": 0.83,
+     "variacao": 804.4
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 0.92,
+     "preco_ini": 7.54,
+     "variacao": -87.75
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 1.45,
+     "preco_ini": 0.92,
+     "variacao": 57.04
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 1.45,
+     "preco_ini": 1.45,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 1.63,
+     "preco_ini": 1.45,
+     "variacao": 12.18
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 2.36,
+     "preco_ini": 1.63,
+     "variacao": 45.29
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 0.92,
+     "preco_ini": 2.36,
+     "variacao": -60.93
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 1.66,
+     "preco_ini": 0.92,
+     "variacao": 79.78
+    }
+   ]
+  },
+  "JILO COMPRIDO": {
+   "rotulo": "Jiló comprido",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - fruto",
+   "peso_iph": 0.0068,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 5.44,
+     "preco_ini": 2.66,
+     "variacao": 104.38
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 3.66,
+     "preco_ini": 5.44,
+     "variacao": -32.7
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 4.0,
+     "preco_ini": 3.66,
+     "variacao": 9.1
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 3.33,
+     "preco_ini": 4.0,
+     "variacao": -16.68
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 5.0,
+     "preco_ini": 3.33,
+     "variacao": 50.05
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 2.33,
+     "preco_ini": 5.0,
+     "variacao": -53.37
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 1.77,
+     "preco_ini": 2.33,
+     "variacao": -23.89
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 6.66,
+     "preco_ini": 1.77,
+     "variacao": 275.75
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 2.88,
+     "preco_ini": 6.66,
+     "variacao": -56.73
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 5.44,
+     "preco_ini": 2.88,
+     "variacao": 88.79
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 3.33,
+     "preco_ini": 5.44,
+     "variacao": -38.82
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 5.18,
+     "preco_ini": 3.33,
+     "variacao": 55.56
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 3.66,
+     "preco_ini": 5.18,
+     "variacao": -29.28
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 4.33,
+     "preco_ini": 3.66,
+     "variacao": 18.2
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 3.33,
+     "preco_ini": 4.33,
+     "variacao": -23.09
+    }
+   ]
+  },
+  "MILHO VERDE": {
+   "rotulo": "Milho verde",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - fruto",
+   "peso_iph": 0.0042,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 1.57,
+     "preco_ini": 1.84,
+     "variacao": -14.34
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 1.31,
+     "preco_ini": 1.57,
+     "variacao": -16.74
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 1.31,
+     "preco_ini": 1.31,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 1.84,
+     "preco_ini": 1.31,
+     "variacao": 40.2
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 1.57,
+     "preco_ini": 1.84,
+     "variacao": -14.34
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 1.14,
+     "preco_ini": 1.57,
+     "variacao": -27.75
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 0.92,
+     "preco_ini": 1.14,
+     "variacao": -18.77
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 0.66,
+     "preco_ini": 0.92,
+     "variacao": -28.52
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 1.57,
+     "preco_ini": 0.66,
+     "variacao": 138.38
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 1.45,
+     "preco_ini": 1.57,
+     "variacao": -7.84
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 2.8,
+     "preco_ini": 1.45,
+     "variacao": 93.33
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 2.1,
+     "preco_ini": 2.8,
+     "variacao": -25.09
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 2.89,
+     "preco_ini": 2.1,
+     "variacao": 37.62
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 1.84,
+     "preco_ini": 2.89,
+     "variacao": -36.45
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 1.31,
+     "preco_ini": 1.84,
+     "variacao": -28.68
+    }
+   ]
+  },
+  "MORANGA HIBRIDA": {
+   "rotulo": "Moranga híbrida",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - fruto",
+   "peso_iph": 0.013,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 1.75,
+     "preco_ini": 1.55,
+     "variacao": 12.9
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 1.75,
+     "preco_ini": 1.75,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 2.5,
+     "preco_ini": 1.75,
+     "variacao": 42.86
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 2.75,
+     "preco_ini": 2.5,
+     "variacao": 10.0
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 2.25,
+     "preco_ini": 2.75,
+     "variacao": -18.18
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 1.55,
+     "preco_ini": 2.25,
+     "variacao": -31.11
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 2.0,
+     "preco_ini": 1.55,
+     "variacao": 29.03
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 2.08,
+     "preco_ini": 2.0,
+     "variacao": 4.17
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 2.0,
+     "preco_ini": 2.08,
+     "variacao": -4.0
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 2.25,
+     "preco_ini": 2.0,
+     "variacao": 12.5
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 2.5,
+     "preco_ini": 2.25,
+     "variacao": 11.11
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 1.55,
+     "preco_ini": 2.5,
+     "variacao": -38.0
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 2.0,
+     "preco_ini": 1.55,
+     "variacao": 29.03
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 1.75,
+     "preco_ini": 2.0,
+     "variacao": -12.5
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 1.75,
+     "preco_ini": 1.75,
+     "variacao": 0.0
+    }
+   ]
+  },
+  "PEPINO AODAI": {
+   "rotulo": "Pepino aodai",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - fruto",
+   "peso_iph": 0.0047,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 3.94,
+     "preco_ini": 1.84,
+     "variacao": 114.7
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 2.36,
+     "preco_ini": 3.94,
+     "variacao": -40.07
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 2.63,
+     "preco_ini": 2.36,
+     "variacao": 11.14
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 1.14,
+     "preco_ini": 2.63,
+     "variacao": -56.73
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 2.36,
+     "preco_ini": 1.14,
+     "variacao": 107.92
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 1.45,
+     "preco_ini": 2.36,
+     "variacao": -38.65
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 1.66,
+     "preco_ini": 1.45,
+     "variacao": 14.48
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 2.89,
+     "preco_ini": 1.66,
+     "variacao": 74.1
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 2.8,
+     "preco_ini": 2.89,
+     "variacao": -3.0
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 1.17,
+     "preco_ini": 2.8,
+     "variacao": -58.26
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 4.38,
+     "preco_ini": 1.17,
+     "variacao": 274.64
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 2.8,
+     "preco_ini": 4.38,
+     "variacao": -36.05
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 2.36,
+     "preco_ini": 2.8,
+     "variacao": -15.7
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 2.36,
+     "preco_ini": 2.36,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 2.1,
+     "preco_ini": 2.36,
+     "variacao": -11.14
+    }
+   ]
+  },
+  "PIMENTAO VERDE": {
+   "rotulo": "Pimentão verde",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - fruto",
+   "peso_iph": 0.0154,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 6.07,
+     "preco_ini": 5.74,
+     "variacao": 5.81
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 8.14,
+     "preco_ini": 6.07,
+     "variacao": 34.1
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 7.77,
+     "preco_ini": 8.14,
+     "variacao": -4.55
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 5.0,
+     "preco_ini": 7.77,
+     "variacao": -35.69
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 5.74,
+     "preco_ini": 5.0,
+     "variacao": 14.81
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 3.62,
+     "preco_ini": 5.74,
+     "variacao": -36.84
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 4.81,
+     "preco_ini": 3.62,
+     "variacao": 32.75
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 3.88,
+     "preco_ini": 4.81,
+     "variacao": -19.27
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 9.62,
+     "preco_ini": 3.88,
+     "variacao": 147.81
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 9.25,
+     "preco_ini": 9.62,
+     "variacao": -3.84
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 6.66,
+     "preco_ini": 9.25,
+     "variacao": -28.03
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 3.88,
+     "preco_ini": 6.66,
+     "variacao": -41.69
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 11.85,
+     "preco_ini": 3.88,
+     "variacao": 205.15
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 6.11,
+     "preco_ini": 11.85,
+     "variacao": -48.47
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 3.7,
+     "preco_ini": 6.11,
+     "variacao": -39.41
+    }
+   ]
+  },
+  "QUIABO": {
+   "rotulo": "Quiabo",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - fruto",
+   "peso_iph": 0.0112,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 4.58,
+     "preco_ini": 4.58,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 5.41,
+     "preco_ini": 4.58,
+     "variacao": 18.2
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 6.66,
+     "preco_ini": 5.41,
+     "variacao": 23.09
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 5.41,
+     "preco_ini": 6.66,
+     "variacao": -18.76
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 7.78,
+     "preco_ini": 5.41,
+     "variacao": 43.66
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 6.25,
+     "preco_ini": 7.78,
+     "variacao": -19.67
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 2.64,
+     "preco_ini": 6.25,
+     "variacao": -57.79
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 8.89,
+     "preco_ini": 2.64,
+     "variacao": 237.04
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 2.64,
+     "preco_ini": 8.89,
+     "variacao": -70.33
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 7.5,
+     "preco_ini": 2.64,
+     "variacao": 184.32
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 7.78,
+     "preco_ini": 7.5,
+     "variacao": 3.73
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 13.33,
+     "preco_ini": 7.78,
+     "variacao": 71.41
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 13.33,
+     "preco_ini": 13.33,
+     "variacao": 0.03
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 5.41,
+     "preco_ini": 13.33,
+     "variacao": -59.4
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 4.16,
+     "preco_ini": 5.41,
+     "variacao": -23.09
+    }
+   ]
+  },
+  "TOMATE CEREJA": {
+   "rotulo": "Tomate cereja",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - fruto",
+   "peso_iph": 0.0035,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 6.27,
+     "preco_ini": 5.49,
+     "variacao": 14.28
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 6.27,
+     "preco_ini": 6.27,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 4.9,
+     "preco_ini": 6.27,
+     "variacao": -21.9
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 6.27,
+     "preco_ini": 4.9,
+     "variacao": 28.05
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 6.27,
+     "preco_ini": 6.27,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 4.9,
+     "preco_ini": 6.27,
+     "variacao": -21.9
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 4.31,
+     "preco_ini": 4.9,
+     "variacao": -12.05
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 6.27,
+     "preco_ini": 4.31,
+     "variacao": 45.59
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 6.27,
+     "preco_ini": 6.27,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 7.64,
+     "preco_ini": 6.27,
+     "variacao": 21.85
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 8.43,
+     "preco_ini": 7.64,
+     "variacao": 10.3
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 7.64,
+     "preco_ini": 8.43,
+     "variacao": -9.34
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 10.97,
+     "preco_ini": 7.64,
+     "variacao": 43.63
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 10.97,
+     "preco_ini": 10.97,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 6.86,
+     "preco_ini": 10.97,
+     "variacao": -37.52
+    }
+   ]
+  },
+  "TOMATE ITALIANO": {
+   "rotulo": "Tomate italiano",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - fruto",
+   "peso_iph": 0.0352,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 5.08,
+     "preco_ini": 4.25,
+     "variacao": 19.61
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 3.5,
+     "preco_ini": 5.08,
+     "variacao": -31.15
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 3.0,
+     "preco_ini": 3.5,
+     "variacao": -14.29
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 3.25,
+     "preco_ini": 3.0,
+     "variacao": 8.33
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 5.0,
+     "preco_ini": 3.25,
+     "variacao": 53.85
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 2.5,
+     "preco_ini": 5.0,
+     "variacao": -50.0
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 2.58,
+     "preco_ini": 2.5,
+     "variacao": 3.33
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 6.0,
+     "preco_ini": 2.58,
+     "variacao": 132.26
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 3.25,
+     "preco_ini": 6.0,
+     "variacao": -45.83
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 5.17,
+     "preco_ini": 3.25,
+     "variacao": 58.97
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 8.33,
+     "preco_ini": 5.17,
+     "variacao": 61.29
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 5.0,
+     "preco_ini": 8.33,
+     "variacao": -40.0
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 4.5,
+     "preco_ini": 5.0,
+     "variacao": -10.0
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 3.25,
+     "preco_ini": 4.5,
+     "variacao": -27.78
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 5.5,
+     "preco_ini": 3.25,
+     "variacao": 69.23
+    }
+   ]
+  },
+  "TOMATE LONGA VIDA": {
+   "rotulo": "Tomate longa vida",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - fruto",
+   "peso_iph": 0.0151,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 5.42,
+     "preco_ini": 4.25,
+     "variacao": 27.45
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 3.58,
+     "preco_ini": 5.42,
+     "variacao": -33.85
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 3.5,
+     "preco_ini": 3.58,
+     "variacao": -2.33
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 3.25,
+     "preco_ini": 3.5,
+     "variacao": -7.14
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 5.0,
+     "preco_ini": 3.25,
+     "variacao": 53.85
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 2.25,
+     "preco_ini": 5.0,
+     "variacao": -55.0
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 2.75,
+     "preco_ini": 2.25,
+     "variacao": 22.22
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 5.5,
+     "preco_ini": 2.75,
+     "variacao": 100.0
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 3.25,
+     "preco_ini": 5.5,
+     "variacao": -40.91
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 5.17,
+     "preco_ini": 3.25,
+     "variacao": 58.97
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 8.33,
+     "preco_ini": 5.17,
+     "variacao": 61.29
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 5.0,
+     "preco_ini": 8.33,
+     "variacao": -40.0
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 4.5,
+     "preco_ini": 5.0,
+     "variacao": -10.0
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 3.25,
+     "preco_ini": 4.5,
+     "variacao": -27.78
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 4.5,
+     "preco_ini": 3.25,
+     "variacao": 38.46
+    }
+   ]
+  },
+  "VAGEM MACARRAO": {
+   "rotulo": "Vagem-macarrão",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - fruto",
+   "peso_iph": 0.0008,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 5.76,
+     "preco_ini": 3.33,
+     "variacao": 73.25
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 6.41,
+     "preco_ini": 5.76,
+     "variacao": 11.16
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 6.15,
+     "preco_ini": 6.41,
+     "variacao": -4.01
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 3.2,
+     "preco_ini": 6.15,
+     "variacao": -47.97
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 4.87,
+     "preco_ini": 3.2,
+     "variacao": 52.08
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 5.64,
+     "preco_ini": 4.87,
+     "variacao": 15.82
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 3.33,
+     "preco_ini": 5.64,
+     "variacao": -40.98
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 7.95,
+     "preco_ini": 3.33,
+     "variacao": 138.88
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 8.2,
+     "preco_ini": 7.95,
+     "variacao": 3.23
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 14.35,
+     "preco_ini": 8.2,
+     "variacao": 74.97
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 5.64,
+     "preco_ini": 14.35,
+     "variacao": -60.73
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 9.49,
+     "preco_ini": 5.64,
+     "variacao": 68.3
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 3.33,
+     "preco_ini": 9.49,
+     "variacao": -64.93
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 2.56,
+     "preco_ini": 3.33,
+     "variacao": -23.05
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 5.23,
+     "preco_ini": 2.56,
+     "variacao": 104.3
+    }
+   ]
+  },
+  "ALHO BRASILEIRO": {
+   "rotulo": "Alho brasileiro",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
+   "peso_iph": 0.0751,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 27.33,
+     "preco_ini": 30.0,
+     "variacao": -8.89
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 20.67,
+     "preco_ini": 27.33,
+     "variacao": -24.39
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 17.67,
+     "preco_ini": 20.67,
+     "variacao": -14.52
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 16.67,
+     "preco_ini": 17.67,
+     "variacao": -5.66
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 16.67,
+     "preco_ini": 16.67,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 14.0,
+     "preco_ini": 16.67,
+     "variacao": -16.0
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 14.0,
+     "preco_ini": 14.0,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 14.0,
+     "preco_ini": 14.0,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 14.0,
+     "preco_ini": 14.0,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 14.0,
+     "preco_ini": 14.0,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 15.0,
+     "preco_ini": 14.0,
+     "variacao": 7.14
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 16.0,
+     "preco_ini": 15.0,
+     "variacao": 6.67
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 17.0,
+     "preco_ini": 16.0,
+     "variacao": 6.25
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 16.0,
+     "preco_ini": 17.0,
+     "variacao": -5.88
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 17.0,
+     "preco_ini": 16.0,
+     "variacao": 6.25
+    }
+   ]
+  },
+  "ALHO IMPORTADO": {
+   "rotulo": "Alho importado",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
+   "peso_iph": 0.0115,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 25.0,
+     "preco_ini": 25.0,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 18.33,
+     "preco_ini": 25.0,
+     "variacao": -26.67
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 16.0,
+     "preco_ini": 18.33,
+     "variacao": -12.73
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 16.0,
+     "preco_ini": 16.0,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 16.67,
+     "preco_ini": 16.0,
+     "variacao": 4.17
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 13.33,
+     "preco_ini": 16.67,
+     "variacao": -20.0
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 14.0,
+     "preco_ini": 13.33,
+     "variacao": 5.0
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 14.0,
+     "preco_ini": 14.0,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 13.33,
+     "preco_ini": 14.0,
+     "variacao": -4.76
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 12.67,
+     "preco_ini": 13.33,
+     "variacao": -5.0
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 12.67,
+     "preco_ini": 12.67,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 15.0,
+     "preco_ini": 12.67,
+     "variacao": 18.42
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 16.0,
+     "preco_ini": 15.0,
+     "variacao": 6.67
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 14.67,
+     "preco_ini": 16.0,
+     "variacao": -8.33
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 15.67,
+     "preco_ini": 14.67,
+     "variacao": 6.82
+    }
+   ]
+  },
+  "BATATA DOCE": {
+   "rotulo": "Batata-doce",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
+   "peso_iph": 0.0173,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 2.5,
+     "preco_ini": 3.0,
+     "variacao": -16.67
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 2.75,
+     "preco_ini": 2.5,
+     "variacao": 10.0
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 2.5,
+     "preco_ini": 2.75,
+     "variacao": -9.09
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 3.25,
+     "preco_ini": 2.5,
+     "variacao": 30.0
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 3.75,
+     "preco_ini": 3.25,
+     "variacao": 15.38
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 3.25,
+     "preco_ini": 3.75,
+     "variacao": -13.33
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 3.25,
+     "preco_ini": 3.25,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 4.25,
+     "preco_ini": 3.25,
+     "variacao": 30.77
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 4.25,
+     "preco_ini": 4.25,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 4.08,
+     "preco_ini": 4.25,
+     "variacao": -3.92
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 3.75,
+     "preco_ini": 4.08,
+     "variacao": -8.16
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 3.75,
+     "preco_ini": 3.75,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 4.08,
+     "preco_ini": 3.75,
+     "variacao": 8.89
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 3.58,
+     "preco_ini": 4.08,
+     "variacao": -12.24
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 3.58,
+     "preco_ini": 3.58,
+     "variacao": 0.0
+    }
+   ]
+  },
+  "BATATA LISA": {
+   "rotulo": "Batata lisa",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
+   "peso_iph": 0.0886,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 2.67,
+     "preco_ini": 3.6,
+     "variacao": -25.93
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 2.4,
+     "preco_ini": 2.67,
+     "variacao": -10.0
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 1.47,
+     "preco_ini": 2.4,
+     "variacao": -38.89
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 2.2,
+     "preco_ini": 1.47,
+     "variacao": 50.0
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 1.93,
+     "preco_ini": 2.2,
+     "variacao": -12.12
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 2.0,
+     "preco_ini": 1.93,
+     "variacao": 3.45
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 2.2,
+     "preco_ini": 2.0,
+     "variacao": 10.0
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 2.0,
+     "preco_ini": 2.2,
+     "variacao": -9.09
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 3.2,
+     "preco_ini": 2.0,
+     "variacao": 60.0
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 2.8,
+     "preco_ini": 3.2,
+     "variacao": -12.5
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 4.67,
+     "preco_ini": 2.8,
+     "variacao": 66.67
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 6.13,
+     "preco_ini": 4.67,
+     "variacao": 31.43
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 3.87,
+     "preco_ini": 6.13,
+     "variacao": -36.96
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 2.8,
+     "preco_ini": 3.87,
+     "variacao": -27.59
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 2.53,
+     "preco_ini": 2.8,
+     "variacao": -9.52
+    }
+   ]
+  },
+  "BETERRABA S/FLS": {
+   "rotulo": "Beterraba (sem folhas)",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
+   "peso_iph": 0.0104,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 2.36,
+     "preco_ini": 2.36,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 2.36,
+     "preco_ini": 2.36,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 2.36,
+     "preco_ini": 2.36,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 2.36,
+     "preco_ini": 2.36,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 2.36,
+     "preco_ini": 2.36,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 2.1,
+     "preco_ini": 2.36,
+     "variacao": -11.14
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 2.1,
+     "preco_ini": 2.1,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 2.89,
+     "preco_ini": 2.1,
+     "variacao": 37.62
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 3.94,
+     "preco_ini": 2.89,
+     "variacao": 36.45
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 4.29,
+     "preco_ini": 3.94,
+     "variacao": 8.88
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 4.47,
+     "preco_ini": 4.29,
+     "variacao": 4.11
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 4.29,
+     "preco_ini": 4.47,
+     "variacao": -3.95
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 3.42,
+     "preco_ini": 4.29,
+     "variacao": -20.42
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 3.42,
+     "preco_ini": 3.42,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 2.8,
+     "preco_ini": 3.42,
+     "variacao": -17.95
+    }
+   ]
+  },
+  "CEBOLA AMARELA": {
+   "rotulo": "Cebola amarela",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
+   "peso_iph": 0.0606,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 2.29,
+     "preco_ini": 3.17,
+     "variacao": -27.63
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 1.5,
+     "preco_ini": 2.29,
+     "variacao": -34.55
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 1.42,
+     "preco_ini": 1.5,
+     "variacao": -5.56
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 1.38,
+     "preco_ini": 1.42,
+     "variacao": -2.94
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 1.79,
+     "preco_ini": 1.38,
+     "variacao": 30.3
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 2.54,
+     "preco_ini": 1.79,
+     "variacao": 41.86
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 2.04,
+     "preco_ini": 2.54,
+     "variacao": -19.67
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 1.68,
+     "preco_ini": 2.04,
+     "variacao": -17.55
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 2.13,
+     "preco_ini": 1.68,
+     "variacao": 26.24
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 2.67,
+     "preco_ini": 2.13,
+     "variacao": 25.49
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 3.67,
+     "preco_ini": 2.67,
+     "variacao": 37.5
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 3.96,
+     "preco_ini": 3.67,
+     "variacao": 7.95
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 4.5,
+     "preco_ini": 3.96,
+     "variacao": 13.68
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 3.79,
+     "preco_ini": 4.5,
+     "variacao": -15.74
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 3.42,
+     "preco_ini": 3.79,
+     "variacao": -9.89
+    }
+   ]
+  },
+  "CEBOLA IMPORTADA": {
+   "rotulo": "Cebola importada",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
+   "peso_iph": 0.0,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 2.83,
+     "preco_ini": 3.42,
+     "variacao": -17.07
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 2.83,
+     "preco_ini": 2.83,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 2.83,
+     "preco_ini": 2.83,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 2.83,
+     "preco_ini": 2.83,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 2.83,
+     "preco_ini": 2.83,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 2.83,
+     "preco_ini": 2.83,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 2.83,
+     "preco_ini": 2.83,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 2.83,
+     "preco_ini": 2.83,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 2.83,
+     "preco_ini": 2.83,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 4.0,
+     "preco_ini": 2.83,
+     "variacao": 41.18
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 4.5,
+     "preco_ini": 4.0,
+     "variacao": 12.5
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 4.5,
+     "preco_ini": 4.5,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 4.5,
+     "preco_ini": 4.5,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 4.0,
+     "preco_ini": 4.5,
+     "variacao": -11.11
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 4.0,
+     "preco_ini": 4.0,
+     "variacao": 0.0
+    }
+   ]
+  },
+  "CENOURA": {
+   "rotulo": "Cenoura",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
+   "peso_iph": 0.0232,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 1.75,
+     "preco_ini": 2.25,
+     "variacao": -22.22
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 1.75,
+     "preco_ini": 1.75,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 2.5,
+     "preco_ini": 1.75,
+     "variacao": 42.86
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 2.25,
+     "preco_ini": 2.5,
+     "variacao": -10.0
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 2.08,
+     "preco_ini": 2.25,
+     "variacao": -7.41
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 2.0,
+     "preco_ini": 2.08,
+     "variacao": -4.0
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 2.5,
+     "preco_ini": 2.0,
+     "variacao": 25.0
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 2.25,
+     "preco_ini": 2.5,
+     "variacao": -10.0
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 2.75,
+     "preco_ini": 2.25,
+     "variacao": 22.22
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 3.08,
+     "preco_ini": 2.75,
+     "variacao": 12.12
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 5.5,
+     "preco_ini": 3.08,
+     "variacao": 78.38
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 6.5,
+     "preco_ini": 5.5,
+     "variacao": 18.18
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 5.17,
+     "preco_ini": 6.5,
+     "variacao": -20.51
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 3.3,
+     "preco_ini": 5.17,
+     "variacao": -36.13
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 4.0,
+     "preco_ini": 3.3,
+     "variacao": 21.21
+    }
+   ]
+  },
+  "INHAME DEDO": {
+   "rotulo": "Inhame-dedo",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
+   "peso_iph": 0.0091,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 2.89,
+     "preco_ini": 2.89,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 2.36,
+     "preco_ini": 2.89,
+     "variacao": -18.22
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 2.54,
+     "preco_ini": 2.36,
+     "variacao": 7.33
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 2.89,
+     "preco_ini": 2.54,
+     "variacao": 13.93
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 3.24,
+     "preco_ini": 2.89,
+     "variacao": 12.11
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 3.94,
+     "preco_ini": 3.24,
+     "variacao": 21.71
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 3.51,
+     "preco_ini": 3.94,
+     "variacao": -11.07
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 5.0,
+     "preco_ini": 3.51,
+     "variacao": 42.49
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 4.38,
+     "preco_ini": 5.0,
+     "variacao": -12.27
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 3.42,
+     "preco_ini": 4.38,
+     "variacao": -22.05
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 2.71,
+     "preco_ini": 3.42,
+     "variacao": -20.59
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 3.24,
+     "preco_ini": 2.71,
+     "variacao": 19.41
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 2.36,
+     "preco_ini": 3.24,
+     "variacao": -27.06
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 2.89,
+     "preco_ini": 2.36,
+     "variacao": 22.28
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 2.71,
+     "preco_ini": 2.89,
+     "variacao": -6.11
+    }
+   ]
+  },
+  "MANDIOCA": {
+   "rotulo": "Mandioca",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
+   "peso_iph": 0.0072,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 1.37,
+     "preco_ini": 1.61,
+     "variacao": -15.25
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 1.45,
+     "preco_ini": 1.37,
+     "variacao": 5.79
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 1.45,
+     "preco_ini": 1.45,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 1.98,
+     "preco_ini": 1.45,
+     "variacao": 36.6
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 2.09,
+     "preco_ini": 1.98,
+     "variacao": 5.7
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 2.43,
+     "preco_ini": 2.09,
+     "variacao": 16.37
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 2.48,
+     "preco_ini": 2.43,
+     "variacao": 1.89
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 2.37,
+     "preco_ini": 2.48,
+     "variacao": -4.38
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 2.44,
+     "preco_ini": 2.37,
+     "variacao": 3.17
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 2.13,
+     "preco_ini": 2.44,
+     "variacao": -12.97
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 2.13,
+     "preco_ini": 2.13,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 2.13,
+     "preco_ini": 2.13,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 2.34,
+     "preco_ini": 2.13,
+     "variacao": 10.0
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 2.09,
+     "preco_ini": 2.34,
+     "variacao": -10.59
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 1.99,
+     "preco_ini": 2.09,
+     "variacao": -4.9
+    }
+   ]
+  },
+  "MANDIOQUINHA": {
+   "rotulo": "Mandioquinha",
+   "grupo": "Hortalicas",
+   "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
+   "peso_iph": 0.0044,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 7.67,
+     "preco_ini": 7.67,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 7.67,
+     "preco_ini": 7.67,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 7.0,
+     "preco_ini": 7.67,
+     "variacao": -8.7
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 7.17,
+     "preco_ini": 7.0,
+     "variacao": 2.38
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 7.5,
+     "preco_ini": 7.17,
+     "variacao": 4.65
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 7.17,
+     "preco_ini": 7.5,
+     "variacao": -4.44
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 6.17,
+     "preco_ini": 7.17,
+     "variacao": -13.95
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 6.17,
+     "preco_ini": 6.17,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 5.67,
+     "preco_ini": 6.17,
+     "variacao": -8.11
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 5.33,
+     "preco_ini": 5.67,
+     "variacao": -5.88
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 5.17,
+     "preco_ini": 5.33,
+     "variacao": -3.12
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 6.0,
+     "preco_ini": 5.17,
+     "variacao": 16.13
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 5.33,
+     "preco_ini": 6.0,
+     "variacao": -11.11
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 5.67,
+     "preco_ini": 5.33,
+     "variacao": 6.25
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 5.5,
+     "preco_ini": 5.67,
+     "variacao": -2.94
+    }
+   ]
+  },
+  "OVOS DE CODORNA": {
+   "rotulo": "Ovos de codorna",
+   "grupo": "Ovos",
+   "subgrupo": "Ovos",
+   "peso_iph": 0.0013,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 17.14,
+     "preco_ini": 19.05,
+     "variacao": -10.0
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 15.71,
+     "preco_ini": 17.14,
+     "variacao": -8.33
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 17.14,
+     "preco_ini": 15.71,
+     "variacao": 9.09
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 17.14,
+     "preco_ini": 17.14,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 14.76,
+     "preco_ini": 17.14,
+     "variacao": -13.89
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 15.71,
+     "preco_ini": 14.76,
+     "variacao": 6.45
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 34.76,
+     "preco_ini": 15.71,
+     "variacao": 121.21
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 19.52,
+     "preco_ini": 34.76,
+     "variacao": -43.84
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 17.62,
+     "preco_ini": 19.52,
+     "variacao": -9.76
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 18.57,
+     "preco_ini": 17.62,
+     "variacao": 5.41
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 17.14,
+     "preco_ini": 18.57,
+     "variacao": -7.69
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 17.62,
+     "preco_ini": 17.14,
+     "variacao": 2.78
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 19.05,
+     "preco_ini": 17.62,
+     "variacao": 8.11
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 18.57,
+     "preco_ini": 19.05,
+     "variacao": -2.5
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 18.57,
+     "preco_ini": 18.57,
+     "variacao": 0.0
+    }
+   ]
+  },
+  "OVOS DE GRANJA": {
+   "rotulo": "Ovos de granja",
+   "grupo": "Ovos",
+   "subgrupo": "Ovos",
+   "peso_iph": 0.0553,
+   "serie": [
+    {
+     "mes": "2025-06",
+     "rotulo": "jun/25",
+     "preco": 6.93,
+     "preco_ini": 6.93,
+     "variacao": 0.0
+    },
+    {
+     "mes": "2025-07",
+     "rotulo": "jul/25",
+     "preco": 6.2,
+     "preco_ini": 6.93,
+     "variacao": -10.58
+    },
+    {
+     "mes": "2025-08",
+     "rotulo": "ago/25",
+     "preco": 6.67,
+     "preco_ini": 6.2,
+     "variacao": 7.53
+    },
+    {
+     "mes": "2025-09",
+     "rotulo": "set/25",
+     "preco": 6.13,
+     "preco_ini": 6.67,
+     "variacao": -8.0
+    },
+    {
+     "mes": "2025-10",
+     "rotulo": "out/25",
+     "preco": 7.14,
+     "preco_ini": 7.3,
+     "variacao": -2.17
+    },
+    {
+     "mes": "2025-11",
+     "rotulo": "nov/25",
+     "preco": 6.67,
+     "preco_ini": 7.14,
+     "variacao": -6.67
+    },
+    {
+     "mes": "2025-12",
+     "rotulo": "dez/25",
+     "preco": 4.92,
+     "preco_ini": 6.67,
+     "variacao": -26.19
+    },
+    {
+     "mes": "2026-01",
+     "rotulo": "jan/26",
+     "preco": 6.83,
+     "preco_ini": 4.92,
+     "variacao": 38.71
+    },
+    {
+     "mes": "2026-02",
+     "rotulo": "fev/26",
+     "preco": 7.78,
+     "preco_ini": 6.83,
+     "variacao": 13.95
+    },
+    {
+     "mes": "2026-03",
+     "rotulo": "mar/26",
+     "preco": 8.73,
+     "preco_ini": 7.78,
+     "variacao": 12.24
+    },
+    {
+     "mes": "2026-04",
+     "rotulo": "abr/26",
+     "preco": 7.3,
+     "preco_ini": 8.73,
+     "variacao": -16.36
+    },
+    {
+     "mes": "2026-05",
+     "rotulo": "mai/26",
+     "preco": 7.78,
+     "preco_ini": 7.3,
+     "variacao": 6.52
+    },
+    {
+     "mes": "2026-06",
+     "rotulo": "jun/26",
+     "preco": 7.46,
+     "preco_ini": 7.78,
+     "variacao": -4.08
+    },
+    {
+     "mes": "2026-07",
+     "rotulo": "jul/26",
+     "preco": 6.51,
+     "preco_ini": 7.46,
+     "variacao": -12.77
+    },
+    {
+     "mes": "2026-08",
+     "rotulo": "ago/26",
+     "preco": 6.67,
+     "preco_ini": 6.51,
+     "variacao": 2.44
+    }
+   ],
+   "nota": "A partir de outubro/2025 o peso padrao da caixa de 30 duzias passou de 25 kg para 21 kg (decisao tecnica da CeasaMinas). O salto de preco por kg em out/2025 reflete essa mudanca de padrao, nao o mercado."
+  }
+ }
+}

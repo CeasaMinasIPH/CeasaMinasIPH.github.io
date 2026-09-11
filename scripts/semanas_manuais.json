@@ -1,0 +1,27 @@
+{
+  "_nota": "Semanas anteriores a out/2025: os Informes Semanais desse periodo sao PDFs so-imagem (sem texto nem vetores). Valores transcritos visualmente dos infograficos (seta verde = alta, seta vermelha = queda, ponto = 0). Sinais conferidos um a um.",
+  "semanas": [
+    {"fim": "2025-07-16", "periodo": "10/07 a 16/07", "IPH": -3.81, "Frutas": -2.49, "Hortalicas": -5.23, "Ovos": -1.97,
+     "Frutas_brasileiras": -2.50, "Frutas_importadas": -1.61, "Hortalicas_folha_flor_haste": 0.38, "Hortalicas_fruto": -10.94, "Hortalicas_raiz_bulbo_tuberculo_rizoma": -2.75},
+    {"fim": "2025-07-23", "periodo": "17/07 a 23/07", "IPH": -1.55, "Frutas": 0.37, "Hortalicas": -2.74, "Ovos": -4.13,
+     "Frutas_brasileiras": 0.34, "Frutas_importadas": 1.64, "Hortalicas_folha_flor_haste": 7.13, "Hortalicas_fruto": 15.09, "Hortalicas_raiz_bulbo_tuberculo_rizoma": -11.34},
+    {"fim": "2025-07-30", "periodo": "24/07 a 30/07", "IPH": -1.44, "Frutas": 6.08, "Hortalicas": -7.87, "Ovos": -1.06,
+     "Frutas_brasileiras": 6.35, "Frutas_importadas": -3.23, "Hortalicas_folha_flor_haste": -14.31, "Hortalicas_fruto": -26.71, "Hortalicas_raiz_bulbo_tuberculo_rizoma": 4.62},
+    {"fim": "2025-08-06", "periodo": "31/07 a 06/08", "IPH": 9.69, "Frutas": 5.23, "Hortalicas": 14.93, "Ovos": 5.36,
+     "Frutas_brasileiras": 5.24, "Frutas_importadas": 5.00, "Hortalicas_folha_flor_haste": 34.69, "Hortalicas_fruto": 42.68, "Hortalicas_raiz_bulbo_tuberculo_rizoma": 3.40},
+    {"fim": "2025-08-13", "periodo": "07/08 a 13/08", "IPH": -5.90, "Frutas": -1.77, "Hortalicas": -11.98, "Ovos": 4.54,
+     "Frutas_brasileiras": -1.69, "Frutas_importadas": -4.76, "Hortalicas_folha_flor_haste": -7.89, "Hortalicas_fruto": -13.13, "Hortalicas_raiz_bulbo_tuberculo_rizoma": -11.69},
+    {"fim": "2025-08-20", "periodo": "14/08 a 20/08", "IPH": -4.25, "Frutas": 0.90, "Hortalicas": -10.39, "Ovos": 0.00,
+     "Frutas_brasileiras": 0.82, "Frutas_importadas": 3.33, "Hortalicas_folha_flor_haste": -14.00, "Hortalicas_fruto": -12.73, "Hortalicas_raiz_bulbo_tuberculo_rizoma": -8.63},
+    {"fim": "2025-08-27", "periodo": "21/08 a 27/08", "IPH": -1.31, "Frutas": -0.29, "Hortalicas": -2.41, "Ovos": -2.33,
+     "Frutas_brasileiras": -0.27, "Frutas_importadas": -1.61, "Hortalicas_folha_flor_haste": -16.64, "Hortalicas_fruto": -3.99, "Hortalicas_raiz_bulbo_tuberculo_rizoma": 0.17},
+    {"fim": "2025-09-03", "periodo": "28/08 a 03/09", "IPH": 2.73, "Frutas": 5.13, "Hortalicas": 0.18, "Ovos": -1.96,
+     "Frutas_brasileiras": 5.35, "Frutas_importadas": -1.64, "Hortalicas_folha_flor_haste": 1.96, "Hortalicas_fruto": -5.43, "Hortalicas_raiz_bulbo_tuberculo_rizoma": 4.05},
+    {"fim": "2025-09-10", "periodo": "04/09 a 10/09", "IPH": 6.41, "Frutas": 1.75, "Hortalicas": 14.19, "Ovos": 0.00,
+     "Frutas_brasileiras": 1.84, "Frutas_importadas": -1.67, "Hortalicas_folha_flor_haste": 11.40, "Hortalicas_fruto": 44.32, "Hortalicas_raiz_bulbo_tuberculo_rizoma": -1.17},
+    {"fim": "2025-09-17", "periodo": "11/09 a 17/09", "IPH": -5.56, "Frutas": 1.17, "Hortalicas": -14.73, "Ovos": 0.00,
+     "Frutas_brasileiras": 1.23, "Frutas_importadas": -1.69, "Hortalicas_folha_flor_haste": -16.33, "Hortalicas_fruto": -32.06, "Hortalicas_raiz_bulbo_tuberculo_rizoma": -0.37},
+    {"fim": "2025-09-24", "periodo": "18/09 a 24/09", "IPH": 1.97, "Frutas": -0.04, "Hortalicas": 6.43, "Ovos": -6.08,
+     "Frutas_brasileiras": 0.13, "Frutas_importadas": -6.90, "Hortalicas_folha_flor_haste": 8.36, "Hortalicas_fruto": -0.25, "Hortalicas_raiz_bulbo_tuberculo_rizoma": 9.79}
+  ]
+}

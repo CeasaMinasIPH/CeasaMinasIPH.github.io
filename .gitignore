@@ -1,0 +1,14 @@
+# PDFs baixados — recriáveis com scripts/fetch_pdfs.py
+data/pdfs/
+data/*.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# QA
+.impeccable/
+
+# Recortes de trabalho intermediários (as versões finais ficam em assets/*.png,*.jpg)
+assets/raw/
