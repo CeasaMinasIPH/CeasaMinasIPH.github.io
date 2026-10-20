@@ -3,14 +3,14 @@
   "fonte": "IPH CeasaMinas-UFV — CeasaMinas e Departamento de Economia da UFV",
   "url": "https://www.ceasaminas.com.br/indiceufvgeral.asp",
   "base": "dezembro de 2024 = 100",
-  "gerado_em": "2026-10-13",
+  "gerado_em": "2026-10-20",
   "periodo_mensal": [
    "2025-06",
    "2026-09"
   ],
   "periodo_semanal": [
    "2025-07-16",
-   "2026-10-07"
+   "2026-10-14"
   ],
   "n_produtos": 58,
   "series_indice_rotulo": {
@@ -1291,6 +1291,20 @@
    "Frutas_importadas": 1.03,
    "Hortalicas_fruto": -18.23,
    "Hortalicas_raiz_bulbo_tuberculo_rizoma": 17.01
+  },
+  {
+   "fim": "2026-10-14",
+   "periodo": "08/10 a 14/10",
+   "origem": "informe",
+   "IPH": 4.73,
+   "Frutas": -0.65,
+   "Hortalicas": 10.73,
+   "Ovos": 0.0,
+   "Frutas_brasileiras": -0.65,
+   "Hortalicas_folha_flor_haste": 2.31,
+   "Frutas_importadas": -0.59,
+   "Hortalicas_fruto": 51.74,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -3.44
   }
  ],
  "decomposicao": {
