@@ -11,7 +11,7 @@
    "Barbacena"
   ],
   "referencia": "Grande BH",
-  "gerado_em": "2026-10-27",
+  "gerado_em": "2026-11-03",
   "nota": "A fonte só publica a cotação mais recente de cada unidade — a série histórica é acumulada semana a semana por este script. As datas de cotação diferem entre unidades (ver datas_cotacao de cada snapshot)."
  },
  "historico": [
@@ -3541,6 +3541,437 @@
      "Gov. Valadares": 7.54,
      "Caratinga": 5.38,
      "Barbacena": 5.38
+    }
+   }
+  },
+  {
+   "semana": "2026-W45",
+   "semana_ref": "2026-11-02",
+   "coletado_em": "2026-11-03",
+   "datas_cotacao": {
+    "Grande BH": "2026-11-02",
+    "Barbacena": "2026-10-27",
+    "Gov. Valadares": "2026-10-13",
+    "Juiz de Fora": "2026-10-29",
+    "Caratinga": "2026-10-26",
+    "Uberlândia": "2026-11-02"
+   },
+   "unidade_medida": {
+    "ABACATE": "KG",
+    "ABO. ITALIANA": "KG",
+    "ABO. MENINA": "KG",
+    "ABACAXI": "DZ",
+    "ALFACE": "DZ",
+    "ALHO BRASILEIRO": "KG",
+    "BANANA-NANICA": "KG",
+    "BANANA-PRATA": "KG",
+    "BATATA": "KG",
+    "BATATA-DOCE": "KG",
+    "BERINJELA": "KG",
+    "BETERRABA": "KG",
+    "CEBOLA": "KG",
+    "CENOURA": "KG",
+    "CHUCHU": "KG",
+    "COCO VERDE": "UN",
+    "COUVE": "DZ",
+    "COUVE-FLOR": "06 UNID.",
+    "ESPINAFRE": "DZ",
+    "GOIABA": "KG",
+    "INHAME": "KG",
+    "JILO": "KG",
+    "LARANJA": "KG",
+    "LIMAO": "KG",
+    "MACA": "KG",
+    "MAMAO-FORMOSA": "KG",
+    "MAMAO-HAVAI": "KG",
+    "MANDIOCA": "KG",
+    "MANDIOQUINHA": "KG",
+    "MANGA": "KG",
+    "MARACUJA": "KG",
+    "MELANCIA": "KG",
+    "MELAO": "KG",
+    "MILHO-VERDE": "KG",
+    "MORANGA": "KG",
+    "MORANGO": "KG",
+    "OVOS": "30 DZ",
+    "PEPINO": "KG",
+    "PERA": "KG",
+    "PIMENTAO": "KG",
+    "QUIABO": "KG",
+    "REPOLHO": "KG",
+    "TANGERINA": "KG",
+    "TOMATE": "KG",
+    "UVA": "KG",
+    "VAGEM": "KG"
+   },
+   "precos": {
+    "ABACATE": {
+     "Grande BH": 5.0,
+     "Uberlândia": 4.09,
+     "Juiz de Fora": 5.0,
+     "Gov. Valadares": 3.0,
+     "Caratinga": 2.0,
+     "Barbacena": 3.25
+    },
+    "ABO. ITALIANA": {
+     "Grande BH": 3.05,
+     "Uberlândia": 4.44,
+     "Juiz de Fora": 2.22,
+     "Gov. Valadares": 4.45,
+     "Caratinga": null,
+     "Barbacena": 2.22
+    },
+    "ABO. MENINA": {
+     "Grande BH": 3.88,
+     "Uberlândia": 4.09,
+     "Juiz de Fora": 3.89,
+     "Gov. Valadares": 3.63,
+     "Caratinga": 3.89,
+     "Barbacena": 3.89
+    },
+    "ABACAXI": {
+     "Grande BH": 60.0,
+     "Uberlândia": 80.0,
+     "Juiz de Fora": 25.0,
+     "Gov. Valadares": 80.0,
+     "Caratinga": null,
+     "Barbacena": 84.0
+    },
+    "ALFACE": {
+     "Grande BH": 30.0,
+     "Uberlândia": 48.0,
+     "Juiz de Fora": 135.0,
+     "Gov. Valadares": null,
+     "Caratinga": 18.0,
+     "Barbacena": 13.33
+    },
+    "ALHO BRASILEIRO": {
+     "Grande BH": 17.0,
+     "Uberlândia": 18.0,
+     "Juiz de Fora": 4.0,
+     "Gov. Valadares": 20.4,
+     "Caratinga": null,
+     "Barbacena": 14.5
+    },
+    "BANANA-NANICA": {
+     "Grande BH": 2.25,
+     "Uberlândia": 2.19,
+     "Juiz de Fora": 3.33,
+     "Gov. Valadares": 2.81,
+     "Caratinga": 2.7,
+     "Barbacena": 2.22
+    },
+    "BANANA-PRATA": {
+     "Grande BH": 3.25,
+     "Uberlândia": 2.81,
+     "Juiz de Fora": 12.21,
+     "Gov. Valadares": 3.41,
+     "Caratinga": 3.7,
+     "Barbacena": 3.33
+    },
+    "BATATA": {
+     "Grande BH": 3.2,
+     "Uberlândia": 4.0,
+     "Juiz de Fora": 1.3,
+     "Gov. Valadares": 5.2,
+     "Caratinga": null,
+     "Barbacena": 2.8
+    },
+    "BATATA-DOCE": {
+     "Grande BH": 3.5,
+     "Uberlândia": null,
+     "Juiz de Fora": 1.14,
+     "Gov. Valadares": 4.09,
+     "Caratinga": 3.18,
+     "Barbacena": 2.27
+    },
+    "BERINJELA": {
+     "Grande BH": 2.08,
+     "Uberlândia": 3.85,
+     "Juiz de Fora": 5.0,
+     "Gov. Valadares": 3.33,
+     "Caratinga": null,
+     "Barbacena": 3.33
+    },
+    "BETERRABA": {
+     "Grande BH": 2.89,
+     "Uberlândia": 2.5,
+     "Juiz de Fora": 1.36,
+     "Gov. Valadares": 3.18,
+     "Caratinga": 2.72,
+     "Barbacena": 2.95
+    },
+    "CEBOLA": {
+     "Grande BH": 6.0,
+     "Uberlândia": 2.0,
+     "Juiz de Fora": 3.0,
+     "Gov. Valadares": 7.25,
+     "Caratinga": 0.06,
+     "Barbacena": 5.75
+    },
+    "CENOURA": {
+     "Grande BH": 2.0,
+     "Uberlândia": 2.5,
+     "Juiz de Fora": 1.82,
+     "Gov. Valadares": 3.63,
+     "Caratinga": 0.82,
+     "Barbacena": 2.95
+    },
+    "CHUCHU": {
+     "Grande BH": 1.31,
+     "Uberlândia": 3.18,
+     "Juiz de Fora": 0.2,
+     "Gov. Valadares": 3.18,
+     "Caratinga": 4.77,
+     "Barbacena": 2.72
+    },
+    "COCO VERDE": {
+     "Grande BH": 3.0,
+     "Uberlândia": 4.0,
+     "Juiz de Fora": 18.0,
+     "Gov. Valadares": null,
+     "Caratinga": 18.0,
+     "Barbacena": 3.33
+    },
+    "COUVE": {
+     "Grande BH": 20.0,
+     "Uberlândia": 36.0,
+     "Juiz de Fora": 20.0,
+     "Gov. Valadares": null,
+     "Caratinga": 8.0,
+     "Barbacena": 15.0
+    },
+    "COUVE-FLOR": {
+     "Grande BH": 25.0,
+     "Uberlândia": 60.0,
+     "Juiz de Fora": null,
+     "Gov. Valadares": 25.0,
+     "Caratinga": 100.0,
+     "Barbacena": 18.75
+    },
+    "ESPINAFRE": {
+     "Grande BH": 35.0,
+     "Uberlândia": 60.0,
+     "Juiz de Fora": 70.0,
+     "Gov. Valadares": null,
+     "Caratinga": 70.0,
+     "Barbacena": 25.0
+    },
+    "GOIABA": {
+     "Grande BH": 8.33,
+     "Uberlândia": 22.0,
+     "Juiz de Fora": 16.66,
+     "Gov. Valadares": 4.5,
+     "Caratinga": null,
+     "Barbacena": 4.0
+    },
+    "INHAME": {
+     "Grande BH": 5.26,
+     "Uberlândia": null,
+     "Juiz de Fora": 3.0,
+     "Gov. Valadares": 4.99,
+     "Caratinga": 7.26,
+     "Barbacena": 3.86
+    },
+    "JILO": {
+     "Grande BH": 4.33,
+     "Uberlândia": 3.53,
+     "Juiz de Fora": 2.81,
+     "Gov. Valadares": 1.88,
+     "Caratinga": 4.38,
+     "Barbacena": 5.0
+    },
+    "LARANJA": {
+     "Grande BH": 2.25,
+     "Uberlândia": 2.5,
+     "Juiz de Fora": 6.81,
+     "Gov. Valadares": 2.5,
+     "Caratinga": null,
+     "Barbacena": 2.04
+    },
+    "LIMAO": {
+     "Grande BH": 10.0,
+     "Uberlândia": 9.5,
+     "Juiz de Fora": 5.2,
+     "Gov. Valadares": 7.5,
+     "Caratinga": 8.0,
+     "Barbacena": 11.0
+    },
+    "MACA": {
+     "Grande BH": 6.66,
+     "Uberlândia": 8.94,
+     "Juiz de Fora": 5.55,
+     "Gov. Valadares": 8.88,
+     "Caratinga": null,
+     "Barbacena": 6.66
+    },
+    "MAMAO-FORMOSA": {
+     "Grande BH": 5.55,
+     "Uberlândia": 6.66,
+     "Juiz de Fora": 3.33,
+     "Gov. Valadares": 6.11,
+     "Caratinga": null,
+     "Barbacena": 4.27
+    },
+    "MAMAO-HAVAI": {
+     "Grande BH": 4.37,
+     "Uberlândia": 6.64,
+     "Juiz de Fora": 7.78,
+     "Gov. Valadares": 8.5,
+     "Caratinga": null,
+     "Barbacena": 7.5
+    },
+    "MANDIOCA": {
+     "Grande BH": 2.5,
+     "Uberlândia": 2.4,
+     "Juiz de Fora": 6.81,
+     "Gov. Valadares": 3.81,
+     "Caratinga": 2.72,
+     "Barbacena": 2.27
+    },
+    "MANDIOQUINHA": {
+     "Grande BH": 7.0,
+     "Uberlândia": 5.68,
+     "Juiz de Fora": 3.63,
+     "Gov. Valadares": null,
+     "Caratinga": 6.81,
+     "Barbacena": 5.9
+    },
+    "MANGA": {
+     "Grande BH": 3.05,
+     "Uberlândia": 3.33,
+     "Juiz de Fora": 5.9,
+     "Gov. Valadares": 4.33,
+     "Caratinga": 3.0,
+     "Barbacena": 3.41
+    },
+    "MARACUJA": {
+     "Grande BH": 8.33,
+     "Uberlândia": 10.0,
+     "Juiz de Fora": 0.2,
+     "Gov. Valadares": 12.33,
+     "Caratinga": 7.85,
+     "Barbacena": 8.93
+    },
+    "MELANCIA": {
+     "Grande BH": 1.8,
+     "Uberlândia": 2.3,
+     "Juiz de Fora": 75.0,
+     "Gov. Valadares": 2.7,
+     "Caratinga": null,
+     "Barbacena": 2.8
+    },
+    "MELAO": {
+     "Grande BH": 4.61,
+     "Uberlândia": 5.0,
+     "Juiz de Fora": 4.23,
+     "Gov. Valadares": 9.61,
+     "Caratinga": 0.77,
+     "Barbacena": 5.38
+    },
+    "MILHO-VERDE": {
+     "Grande BH": 1.84,
+     "Uberlândia": 2.33,
+     "Juiz de Fora": 1.6,
+     "Gov. Valadares": null,
+     "Caratinga": 0.24,
+     "Barbacena": 2.6
+    },
+    "MORANGA": {
+     "Grande BH": 2.5,
+     "Uberlândia": 3.25,
+     "Juiz de Fora": 1.0,
+     "Gov. Valadares": 2.0,
+     "Caratinga": null,
+     "Barbacena": 2.2
+    },
+    "MORANGO": {
+     "Grande BH": 20.83,
+     "Uberlândia": 34.38,
+     "Juiz de Fora": 90.63,
+     "Gov. Valadares": 18.75,
+     "Caratinga": 29.17,
+     "Barbacena": 16.67
+    },
+    "OVOS": {
+     "Grande BH": 143.0,
+     "Uberlândia": 170.0,
+     "Juiz de Fora": 40.0,
+     "Gov. Valadares": 170.0,
+     "Caratinga": null,
+     "Barbacena": 160.0
+    },
+    "PEPINO": {
+     "Grande BH": 1.31,
+     "Uberlândia": 4.99,
+     "Juiz de Fora": 7.85,
+     "Gov. Valadares": 3.33,
+     "Caratinga": 2.86,
+     "Barbacena": 2.38
+    },
+    "PERA": {
+     "Grande BH": 12.5,
+     "Uberlândia": 6.15,
+     "Juiz de Fora": 2.5,
+     "Gov. Valadares": 8.7,
+     "Caratinga": null,
+     "Barbacena": 9.0
+    },
+    "PIMENTAO": {
+     "Grande BH": 4.44,
+     "Uberlândia": 7.27,
+     "Juiz de Fora": null,
+     "Gov. Valadares": 9.0,
+     "Caratinga": null,
+     "Barbacena": 7.0
+    },
+    "QUIABO": {
+     "Grande BH": 5.83,
+     "Uberlândia": 5.71,
+     "Juiz de Fora": 2.14,
+     "Gov. Valadares": 3.57,
+     "Caratinga": 5.71,
+     "Barbacena": 7.14
+    },
+    "REPOLHO": {
+     "Grande BH": 1.5,
+     "Uberlândia": 1.67,
+     "Juiz de Fora": 4.8,
+     "Gov. Valadares": 2.2,
+     "Caratinga": 1.6,
+     "Barbacena": 0.8
+    },
+    "TANGERINA": {
+     "Grande BH": 6.94,
+     "Uberlândia": 8.1,
+     "Juiz de Fora": 13.32,
+     "Gov. Valadares": null,
+     "Caratinga": null,
+     "Barbacena": 7.49
+    },
+    "TOMATE": {
+     "Grande BH": 11.5,
+     "Uberlândia": 13.62,
+     "Juiz de Fora": 4.99,
+     "Gov. Valadares": 8.17,
+     "Caratinga": 9.08,
+     "Barbacena": 9.08
+    },
+    "UVA": {
+     "Grande BH": 12.5,
+     "Uberlândia": 14.8,
+     "Juiz de Fora": 30.0,
+     "Gov. Valadares": 18.0,
+     "Caratinga": null,
+     "Barbacena": 14.0
+    },
+    "VAGEM": {
+     "Grande BH": 7.69,
+     "Uberlândia": 12.14,
+     "Juiz de Fora": 7.69,
+     "Gov. Valadares": 7.54,
+     "Caratinga": 5.38,
+     "Barbacena": 6.15
     }
    }
   }
