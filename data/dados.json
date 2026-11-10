@@ -3,14 +3,14 @@
   "fonte": "IPH CeasaMinas-UFV — CeasaMinas e Departamento de Economia da UFV",
   "url": "https://www.ceasaminas.com.br/indiceufvgeral.asp",
   "base": "dezembro de 2024 = 100",
-  "gerado_em": "2026-11-03",
+  "gerado_em": "2026-11-10",
   "periodo_mensal": [
    "2025-06",
-   "2026-09"
+   "2026-10"
   ],
   "periodo_semanal": [
    "2025-07-16",
-   "2026-10-28"
+   "2026-09-30"
   ],
   "n_produtos": 58,
   "series_indice_rotulo": {
@@ -35,7 +35,9 @@
    "Hortalicas_raiz_bulbo_tuberculo_rizoma": "Hort. raiz, bulbo, tubérculo",
    "Ovos": "Ovos"
   },
-  "avisos": []
+  "avisos": [
+   "Numero-indice: ancora nao encontrada"
+  ]
  },
  "indice_numero": [
   {
@@ -77,98 +79,38 @@
   {
    "mes": "2025-06",
    "rotulo": "jun/25",
-   "valor": 87.08,
-   "origem": "cadeia"
+   "valor": 87.09,
+   "origem": "figura3"
   },
   {
    "mes": "2025-07",
    "rotulo": "jul/25",
    "valor": 80.49,
-   "origem": "cadeia"
+   "origem": "figura3"
   },
   {
    "mes": "2025-08",
    "rotulo": "ago/25",
    "valor": 78.22,
-   "origem": "cadeia"
+   "origem": "figura3"
   },
   {
    "mes": "2025-09",
    "rotulo": "set/25",
    "valor": 82.41,
-   "origem": "cadeia"
+   "origem": "figura3"
   },
   {
    "mes": "2025-10",
    "rotulo": "out/25",
    "valor": 81.74,
-   "origem": "cadeia"
+   "origem": "figura3"
   },
   {
    "mes": "2025-11",
    "rotulo": "nov/25",
    "valor": 75.87,
-   "origem": "cadeia"
-  },
-  {
-   "mes": "2025-12",
-   "rotulo": "dez/25",
-   "valor": 76.0,
-   "origem": "cadeia"
-  },
-  {
-   "mes": "2026-01",
-   "rotulo": "jan/26",
-   "valor": 80.79,
-   "origem": "cadeia"
-  },
-  {
-   "mes": "2026-02",
-   "rotulo": "fev/26",
-   "valor": 80.46,
-   "origem": "cadeia"
-  },
-  {
-   "mes": "2026-03",
-   "rotulo": "mar/26",
-   "valor": 83.26,
-   "origem": "cadeia"
-  },
-  {
-   "mes": "2026-04",
-   "rotulo": "abr/26",
-   "valor": 91.5,
-   "origem": "cadeia"
-  },
-  {
-   "mes": "2026-05",
-   "rotulo": "mai/26",
-   "valor": 90.09,
-   "origem": "cadeia"
-  },
-  {
-   "mes": "2026-06",
-   "rotulo": "jun/26",
-   "valor": 84.61,
-   "origem": "cadeia"
-  },
-  {
-   "mes": "2026-07",
-   "rotulo": "jul/26",
-   "valor": 76.45,
-   "origem": "cadeia"
-  },
-  {
-   "mes": "2026-08",
-   "rotulo": "ago/26",
-   "valor": 77.36,
-   "origem": "cadeia"
-  },
-  {
-   "mes": "2026-09",
-   "rotulo": "set/26",
-   "valor": 84.25,
-   "origem": "cadeia"
+   "origem": "figura3"
   }
  ],
  "iph_mensal": [
@@ -379,6 +321,19 @@
    "Hortalicas_fruto": 26.65,
    "Hortalicas_raiz_bulbo_tuberculo_rizoma": 10.28,
    "Ovos": -2.35
+  },
+  {
+   "mes": "2026-10",
+   "rotulo": "out/26",
+   "IPH": 10.4,
+   "Frutas": 4.66,
+   "Frutas_brasileiras": 4.88,
+   "Frutas_importadas": 0.25,
+   "Hortalicas": 16.5,
+   "Hortalicas_folha_flor_haste": 0.57,
+   "Hortalicas_fruto": 43.43,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 2.78,
+   "Ovos": 6.27
   }
  ],
  "iph_semanal": [
@@ -1277,102 +1232,46 @@
    "Hortalicas_fruto": 3.02,
    "Hortalicas_raiz_bulbo_tuberculo_rizoma": -3.14,
    "Ovos": 0.0
-  },
-  {
-   "fim": "2026-10-07",
-   "periodo": "01/10 a 07/10",
-   "origem": "informe",
-   "IPH": 4.3,
-   "Frutas": 5.33,
-   "Hortalicas": 3.04,
-   "Ovos": 6.34,
-   "Frutas_brasileiras": 5.53,
-   "Hortalicas_folha_flor_haste": -5.02,
-   "Frutas_importadas": 1.03,
-   "Hortalicas_fruto": -18.23,
-   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 17.01
-  },
-  {
-   "fim": "2026-10-14",
-   "periodo": "08/10 a 14/10",
-   "origem": "informe",
-   "IPH": 4.73,
-   "Frutas": -0.65,
-   "Hortalicas": 10.73,
-   "Ovos": 0.0,
-   "Frutas_brasileiras": -0.65,
-   "Hortalicas_folha_flor_haste": 2.31,
-   "Frutas_importadas": -0.59,
-   "Hortalicas_fruto": 51.74,
-   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -3.44
-  },
-  {
-   "fim": "2026-10-21",
-   "periodo": "15/10 a 21/10",
-   "origem": "informe",
-   "IPH": -5.42,
-   "Frutas": 1.33,
-   "Hortalicas": -11.15,
-   "Ovos": -3.43,
-   "Frutas_brasileiras": 1.59,
-   "Hortalicas_folha_flor_haste": -7.8,
-   "Frutas_importadas": -3.41,
-   "Hortalicas_fruto": -14.16,
-   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -9.54
-  },
-  {
-   "fim": "2026-10-28",
-   "periodo": "22/10 a 28/10",
-   "origem": "informe",
-   "IPH": 5.0,
-   "Frutas": -1.0,
-   "Hortalicas": 11.04,
-   "Ovos": 3.51,
-   "Frutas_brasileiras": -1.18,
-   "Hortalicas_folha_flor_haste": 12.11,
-   "Frutas_importadas": 3.51,
-   "Hortalicas_fruto": 30.77,
-   "Hortalicas_raiz_bulbo_tuberculo_rizoma": -0.6
   }
  ],
  "decomposicao": {
-  "2026-09": {
+  "2026-10": {
    "subgrupos": [
     {
      "subgrupo": "Frutas - brasileiras",
-     "peso": 0.4755,
-     "variacao": 3.22,
-     "impacto_pp": 1.5311
+     "peso": 0.4482,
+     "variacao": 4.88,
+     "impacto_pp": 2.1872
     },
     {
      "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
-     "peso": 0.2765,
-     "variacao": 10.28,
-     "impacto_pp": 2.8424
+     "peso": 0.2874,
+     "variacao": 2.78,
+     "impacto_pp": 0.799
     },
     {
      "subgrupo": "Hortalicas - fruto",
-     "peso": 0.1399,
-     "variacao": 26.65,
-     "impacto_pp": 3.7283
+     "peso": 0.1628,
+     "variacao": 43.43,
+     "impacto_pp": 7.0704
     },
     {
      "subgrupo": "Ovos",
-     "peso": 0.0593,
-     "variacao": -2.35,
-     "impacto_pp": -0.1394
+     "peso": 0.0516,
+     "variacao": 6.27,
+     "impacto_pp": 0.3235
     },
     {
      "subgrupo": "Hortalicas - folha, flor e haste",
-     "peso": 0.0248,
-     "variacao": 25.63,
-     "impacto_pp": 0.6356
+     "peso": 0.0274,
+     "variacao": 0.57,
+     "impacto_pp": 0.0156
     },
     {
      "subgrupo": "Frutas - importadas",
-     "peso": 0.0241,
-     "variacao": 12.28,
-     "impacto_pp": 0.2959
+     "peso": 0.0225,
+     "variacao": 0.25,
+     "impacto_pp": 0.0056
     }
    ]
   }
@@ -1495,6 +1394,13 @@
      "preco": 3.23,
      "preco_ini": 3.24,
      "variacao": -0.06
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 3.7,
+     "preco_ini": 3.23,
+     "variacao": 14.37
     }
    ]
   },
@@ -1502,7 +1408,7 @@
    "rotulo": "Abacaxi pérola",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0282,
+   "peso_iph": 0.0265,
    "serie": [
     {
      "mes": "2025-06",
@@ -1615,6 +1521,13 @@
      "preco": 3.24,
      "preco_ini": 3.61,
      "variacao": -10.26
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 3.33,
+     "preco_ini": 3.24,
+     "variacao": 2.86
     }
    ]
   },
@@ -1622,7 +1535,7 @@
    "rotulo": "Banana-maçã",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0027,
+   "peso_iph": 0.0025,
    "serie": [
     {
      "mes": "2025-06",
@@ -1735,6 +1648,13 @@
      "preco": 5.17,
      "preco_ini": 5.33,
      "variacao": -3.12
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 5.17,
+     "preco_ini": 5.17,
+     "variacao": 0.0
     }
    ]
   },
@@ -1742,7 +1662,7 @@
    "rotulo": "Banana-nanica",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0226,
+   "peso_iph": 0.019,
    "serie": [
     {
      "mes": "2025-06",
@@ -1855,6 +1775,13 @@
      "preco": 2.25,
      "preco_ini": 2.5,
      "variacao": -10.0
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 2.25,
+     "preco_ini": 2.25,
+     "variacao": 0.0
     }
    ]
   },
@@ -1862,7 +1789,7 @@
    "rotulo": "Banana-prata",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.035,
+   "peso_iph": 0.0298,
    "serie": [
     {
      "mes": "2025-06",
@@ -1975,6 +1902,13 @@
      "preco": 3.25,
      "preco_ini": 3.75,
      "variacao": -13.33
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 3.25,
+     "preco_ini": 3.25,
+     "variacao": 0.0
     }
    ]
   },
@@ -1982,7 +1916,7 @@
    "rotulo": "Coco seco",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.003,
+   "peso_iph": 0.0028,
    "serie": [
     {
      "mes": "2025-06",
@@ -2095,6 +2029,13 @@
      "preco": 4.25,
      "preco_ini": 4.17,
      "variacao": 2.0
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 4.37,
+     "preco_ini": 4.25,
+     "variacao": 2.75
     }
    ]
   },
@@ -2102,7 +2043,7 @@
    "rotulo": "Coco verde",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0073,
+   "peso_iph": 0.0086,
    "serie": [
     {
      "mes": "2025-06",
@@ -2215,6 +2156,13 @@
      "preco": 2.16,
      "preco_ini": 1.93,
      "variacao": 11.49
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 2.0,
+     "preco_ini": 2.16,
+     "variacao": -7.22
     }
    ]
   },
@@ -2222,7 +2170,7 @@
    "rotulo": "Goiaba vermelha",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0087,
+   "peso_iph": 0.0066,
    "serie": [
     {
      "mes": "2025-06",
@@ -2335,6 +2283,13 @@
      "preco": 6.39,
      "preco_ini": 6.89,
      "variacao": -7.26
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 7.78,
+     "preco_ini": 6.39,
+     "variacao": 21.76
     }
    ]
   },
@@ -2342,7 +2297,7 @@
    "rotulo": "Laranja-pera",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0314,
+   "peso_iph": 0.0287,
    "serie": [
     {
      "mes": "2025-06",
@@ -2455,6 +2410,13 @@
      "preco": 2.0,
      "preco_ini": 2.0,
      "variacao": 0.0
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 2.25,
+     "preco_ini": 2.0,
+     "variacao": 12.5
     }
    ]
   },
@@ -2462,7 +2424,7 @@
    "rotulo": "Limão-tahiti",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0465,
+   "peso_iph": 0.0587,
    "serie": [
     {
      "mes": "2025-06",
@@ -2575,6 +2537,13 @@
      "preco": 8.33,
      "preco_ini": 6.83,
      "variacao": 21.95
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 9.67,
+     "preco_ini": 8.33,
+     "variacao": 16.0
     }
    ]
   },
@@ -2582,7 +2551,7 @@
    "rotulo": "Maçã",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0728,
+   "peso_iph": 0.0693,
    "serie": [
     {
      "mes": "2025-06",
@@ -2695,6 +2664,13 @@
      "preco": 6.9,
      "preco_ini": 6.32,
      "variacao": 9.25
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 6.66,
+     "preco_ini": 6.9,
+     "variacao": -3.48
     }
    ]
   },
@@ -2702,7 +2678,7 @@
    "rotulo": "Mamão formosa",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0172,
+   "peso_iph": 0.0163,
    "serie": [
     {
      "mes": "2025-06",
@@ -2815,6 +2791,13 @@
      "preco": 4.85,
      "preco_ini": 4.31,
      "variacao": 12.36
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 6.0,
+     "preco_ini": 4.85,
+     "variacao": 23.73
     }
    ]
   },
@@ -2822,7 +2805,7 @@
    "rotulo": "Mamão havai",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0207,
+   "peso_iph": 0.0144,
    "serie": [
     {
      "mes": "2025-06",
@@ -2935,6 +2918,13 @@
      "preco": 3.96,
      "preco_ini": 5.12,
      "variacao": -22.77
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 6.08,
+     "preco_ini": 3.96,
+     "variacao": 53.75
     }
    ]
   },
@@ -2942,7 +2932,7 @@
    "rotulo": "Manga",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0344,
+   "peso_iph": 0.0259,
    "serie": [
     {
      "mes": "2025-06",
@@ -3055,6 +3045,13 @@
      "preco": 3.16,
      "preco_ini": 5.33,
      "variacao": -40.68
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 3.05,
+     "preco_ini": 3.16,
+     "variacao": -3.5
     }
    ]
   },
@@ -3062,7 +3059,7 @@
    "rotulo": "Maracujá azedo",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0283,
+   "peso_iph": 0.0176,
    "serie": [
     {
      "mes": "2025-06",
@@ -3175,6 +3172,13 @@
      "preco": 6.39,
      "preco_ini": 9.44,
      "variacao": -32.34
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 8.33,
+     "preco_ini": 6.39,
+     "variacao": 30.43
     }
    ]
   },
@@ -3182,7 +3186,7 @@
    "rotulo": "Melancia",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0207,
+   "peso_iph": 0.0231,
    "serie": [
     {
      "mes": "2025-06",
@@ -3295,6 +3299,13 @@
      "preco": 2.03,
      "preco_ini": 1.8,
      "variacao": 12.96
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 1.83,
+     "preco_ini": 2.03,
+     "variacao": -9.84
     }
    ]
   },
@@ -3302,7 +3313,7 @@
    "rotulo": "Melão amarelo",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0147,
+   "peso_iph": 0.0184,
    "serie": [
     {
      "mes": "2025-06",
@@ -3415,6 +3426,13 @@
      "preco": 5.51,
      "preco_ini": 4.61,
      "variacao": 19.44
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 4.87,
+     "preco_ini": 5.51,
+     "variacao": -11.68
     }
    ]
   },
@@ -3422,7 +3440,7 @@
    "rotulo": "Morango",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0208,
+   "peso_iph": 0.0244,
    "serie": [
     {
      "mes": "2025-06",
@@ -3535,6 +3553,13 @@
      "preco": 30.0,
      "preco_ini": 16.11,
      "variacao": 86.2
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 30.55,
+     "preco_ini": 30.0,
+     "variacao": 1.86
     }
    ]
   },
@@ -3542,7 +3567,7 @@
    "rotulo": "Pêssego",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0005,
+   "peso_iph": 0.0042,
    "serie": [
     {
      "mes": "2025-06",
@@ -3655,6 +3680,13 @@
      "preco": 13.89,
      "preco_ini": 6.66,
      "variacao": 108.4
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 11.11,
+     "preco_ini": 13.89,
+     "variacao": -20.0
     }
    ]
   },
@@ -3662,7 +3694,7 @@
    "rotulo": "Tangerina ponkan",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0108,
+   "peso_iph": 0.0039,
    "serie": [
     {
      "mes": "2025-06",
@@ -3775,6 +3807,13 @@
      "preco": 4.99,
      "preco_ini": 3.42,
      "variacao": 46.0
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 6.66,
+     "preco_ini": 4.99,
+     "variacao": 33.38
     }
    ]
   },
@@ -3782,7 +3821,7 @@
    "rotulo": "Uva niágara",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0053,
+   "peso_iph": 0.0041,
    "serie": [
     {
      "mes": "2025-06",
@@ -3895,6 +3934,13 @@
      "preco": 9.67,
      "preco_ini": 10.33,
      "variacao": -6.45
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 10.0,
+     "preco_ini": 9.67,
+     "variacao": 3.45
     }
    ]
   },
@@ -3902,7 +3948,7 @@
    "rotulo": "Uva vitória",
    "grupo": "Frutas",
    "subgrupo": "Frutas - brasileiras",
-   "peso_iph": 0.0376,
+   "peso_iph": 0.0371,
    "serie": [
     {
      "mes": "2025-06",
@@ -4015,6 +4061,13 @@
      "preco": 12.67,
      "preco_ini": 11.13,
      "variacao": 13.77
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 11.33,
+     "preco_ini": 12.67,
+     "variacao": -10.53
     }
    ]
   },
@@ -4022,7 +4075,7 @@
    "rotulo": "Maçã importada (Red Delicious)",
    "grupo": "Frutas",
    "subgrupo": "Frutas - importadas",
-   "peso_iph": 0.0061,
+   "peso_iph": 0.0037,
    "serie": [
     {
      "mes": "2025-06",
@@ -4135,6 +4188,13 @@
      "preco": 11.33,
      "preco_ini": 11.5,
      "variacao": -1.45
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 10.67,
+     "preco_ini": 11.33,
+     "variacao": -5.88
     }
    ]
   },
@@ -4142,7 +4202,7 @@
    "rotulo": "Pera importada (Williams)",
    "grupo": "Frutas",
    "subgrupo": "Frutas - importadas",
-   "peso_iph": 0.018,
+   "peso_iph": 0.0188,
    "serie": [
     {
      "mes": "2025-06",
@@ -4255,6 +4315,13 @@
      "preco": 11.5,
      "preco_ini": 9.83,
      "variacao": 16.95
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 11.67,
+     "preco_ini": 11.5,
+     "variacao": 1.45
     }
    ]
   },
@@ -4262,7 +4329,7 @@
    "rotulo": "Alface lisa",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - folha, flor e haste",
-   "peso_iph": 0.002,
+   "peso_iph": 0.0018,
    "serie": [
     {
      "mes": "2025-06",
@@ -4375,6 +4442,13 @@
      "preco": 12.0,
      "preco_ini": 10.67,
      "variacao": 12.5
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 12.67,
+     "preco_ini": 12.0,
+     "variacao": 5.56
     }
    ]
   },
@@ -4382,7 +4456,7 @@
    "rotulo": "Alho-poró",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - folha, flor e haste",
-   "peso_iph": 0.0007,
+   "peso_iph": 0.0009,
    "serie": [
     {
      "mes": "2025-06",
@@ -4495,6 +4569,13 @@
      "preco": 7.58,
      "preco_ini": 7.58,
      "variacao": 0.0
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 7.58,
+     "preco_ini": 7.58,
+     "variacao": 0.0
     }
    ]
   },
@@ -4502,7 +4583,7 @@
    "rotulo": "Brócolis ninja",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - folha, flor e haste",
-   "peso_iph": 0.0081,
+   "peso_iph": 0.0115,
    "serie": [
     {
      "mes": "2025-06",
@@ -4615,6 +4696,13 @@
      "preco": 11.1,
      "preco_ini": 6.94,
      "variacao": 59.9
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 11.1,
+     "preco_ini": 11.1,
+     "variacao": 0.0
     }
    ]
   },
@@ -4622,7 +4710,7 @@
    "rotulo": "Couve",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - folha, flor e haste",
-   "peso_iph": 0.0012,
+   "peso_iph": 0.001,
    "serie": [
     {
      "mes": "2025-06",
@@ -4735,6 +4823,13 @@
      "preco": 12.35,
      "preco_ini": 12.75,
      "variacao": -3.08
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 12.75,
+     "preco_ini": 12.35,
+     "variacao": 3.17
     }
    ]
   },
@@ -4742,7 +4837,7 @@
    "rotulo": "Couve-flor",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - folha, flor e haste",
-   "peso_iph": 0.0051,
+   "peso_iph": 0.0059,
    "serie": [
     {
      "mes": "2025-06",
@@ -4855,6 +4950,13 @@
      "preco": 3.89,
      "preco_ini": 2.78,
      "variacao": 40.0
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 3.52,
+     "preco_ini": 3.89,
+     "variacao": -9.52
     }
    ]
   },
@@ -4862,7 +4964,7 @@
    "rotulo": "Repolho híbrido",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - folha, flor e haste",
-   "peso_iph": 0.0063,
+   "peso_iph": 0.0054,
    "serie": [
     {
      "mes": "2025-06",
@@ -4975,6 +5077,13 @@
      "preco": 1.2,
      "preco_ini": 1.25,
      "variacao": -4.0
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 1.33,
+     "preco_ini": 1.2,
+     "variacao": 11.11
     }
    ]
   },
@@ -4982,7 +5091,7 @@
    "rotulo": "Repolho roxo",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - folha, flor e haste",
-   "peso_iph": 0.0014,
+   "peso_iph": 0.0009,
    "serie": [
     {
      "mes": "2025-06",
@@ -5095,6 +5204,13 @@
      "preco": 1.37,
      "preco_ini": 2.17,
      "variacao": -36.92
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 1.33,
+     "preco_ini": 1.37,
+     "variacao": -2.44
     }
    ]
   },
@@ -5215,6 +5331,13 @@
      "preco": 1.94,
      "preco_ini": 1.66,
      "variacao": 16.87
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 2.5,
+     "preco_ini": 1.94,
+     "variacao": 28.69
     }
    ]
   },
@@ -5222,7 +5345,7 @@
    "rotulo": "Abobrinha menina",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - fruto",
-   "peso_iph": 0.0012,
+   "peso_iph": 0.0014,
    "serie": [
     {
      "mes": "2025-06",
@@ -5335,6 +5458,13 @@
      "preco": 2.5,
      "preco_ini": 2.31,
      "variacao": 8.08
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 4.16,
+     "preco_ini": 2.5,
+     "variacao": 66.62
     }
    ]
   },
@@ -5342,7 +5472,7 @@
    "rotulo": "Berinjela",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - fruto",
-   "peso_iph": 0.0022,
+   "peso_iph": 0.0025,
    "serie": [
     {
      "mes": "2025-06",
@@ -5455,6 +5585,13 @@
      "preco": 3.75,
      "preco_ini": 3.47,
      "variacao": 8.08
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 2.22,
+     "preco_ini": 3.75,
+     "variacao": -40.75
     }
    ]
   },
@@ -5462,7 +5599,7 @@
    "rotulo": "Chuchu",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - fruto",
-   "peso_iph": 0.0062,
+   "peso_iph": 0.0149,
    "serie": [
     {
      "mes": "2025-06",
@@ -5575,6 +5712,13 @@
      "preco": 3.42,
      "preco_ini": 1.66,
      "variacao": 105.82
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 1.75,
+     "preco_ini": 3.42,
+     "variacao": -48.88
     }
    ]
   },
@@ -5582,7 +5726,7 @@
    "rotulo": "Jiló comprido",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - fruto",
-   "peso_iph": 0.0055,
+   "peso_iph": 0.0052,
    "serie": [
     {
      "mes": "2025-06",
@@ -5695,6 +5839,13 @@
      "preco": 3.66,
      "preco_ini": 3.33,
      "variacao": 10.01
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 3.66,
+     "preco_ini": 3.66,
+     "variacao": 0.0
     }
    ]
   },
@@ -5702,7 +5853,7 @@
    "rotulo": "Milho verde",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - fruto",
-   "peso_iph": 0.0023,
+   "peso_iph": 0.0025,
    "serie": [
     {
      "mes": "2025-06",
@@ -5815,6 +5966,13 @@
      "preco": 1.57,
      "preco_ini": 1.31,
      "variacao": 20.1
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 1.84,
+     "preco_ini": 1.57,
+     "variacao": 16.74
     }
    ]
   },
@@ -5822,7 +5980,7 @@
    "rotulo": "Moranga híbrida",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - fruto",
-   "peso_iph": 0.0135,
+   "peso_iph": 0.0108,
    "serie": [
     {
      "mes": "2025-06",
@@ -5935,6 +6093,13 @@
      "preco": 1.63,
      "preco_ini": 1.75,
      "variacao": -6.67
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 3.0,
+     "preco_ini": 1.63,
+     "variacao": 83.67
     }
    ]
   },
@@ -5942,7 +6107,7 @@
    "rotulo": "Pepino aodai",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - fruto",
-   "peso_iph": 0.0044,
+   "peso_iph": 0.0024,
    "serie": [
     {
      "mes": "2025-06",
@@ -6055,6 +6220,13 @@
      "preco": 1.14,
      "preco_ini": 2.1,
      "variacao": -45.87
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 1.57,
+     "preco_ini": 1.14,
+     "variacao": 38.42
     }
    ]
   },
@@ -6175,6 +6347,13 @@
      "preco": 3.88,
      "preco_ini": 3.7,
      "variacao": 4.95
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 5.0,
+     "preco_ini": 3.88,
+     "variacao": 28.67
     }
    ]
   },
@@ -6182,7 +6361,7 @@
    "rotulo": "Quiabo",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - fruto",
-   "peso_iph": 0.0089,
+   "peso_iph": 0.0098,
    "serie": [
     {
      "mes": "2025-06",
@@ -6295,6 +6474,13 @@
      "preco": 5.0,
      "preco_ini": 4.16,
      "variacao": 20.02
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 5.41,
+     "preco_ini": 5.0,
+     "variacao": 8.34
     }
    ]
   },
@@ -6302,7 +6488,7 @@
    "rotulo": "Tomate cereja",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - fruto",
-   "peso_iph": 0.0025,
+   "peso_iph": 0.0049,
    "serie": [
     {
      "mes": "2025-06",
@@ -6415,6 +6601,13 @@
      "preco": 10.97,
      "preco_ini": 6.86,
      "variacao": 60.04
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 10.84,
+     "preco_ini": 10.97,
+     "variacao": -1.22
     }
    ]
   },
@@ -6422,7 +6615,7 @@
    "rotulo": "Tomate italiano",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - fruto",
-   "peso_iph": 0.0575,
+   "peso_iph": 0.0657,
    "serie": [
     {
      "mes": "2025-06",
@@ -6535,6 +6728,13 @@
      "preco": 7.0,
      "preco_ini": 5.5,
      "variacao": 27.27
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 11.5,
+     "preco_ini": 7.0,
+     "variacao": 64.29
     }
    ]
   },
@@ -6542,7 +6742,7 @@
    "rotulo": "Tomate longa vida",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - fruto",
-   "peso_iph": 0.0199,
+   "peso_iph": 0.0262,
    "serie": [
     {
      "mes": "2025-06",
@@ -6655,6 +6855,13 @@
      "preco": 7.0,
      "preco_ini": 4.5,
      "variacao": 55.56
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 12.0,
+     "preco_ini": 7.0,
+     "variacao": 71.43
     }
    ]
   },
@@ -6662,7 +6869,7 @@
    "rotulo": "Vagem-macarrão",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - fruto",
-   "peso_iph": 0.0019,
+   "peso_iph": 0.0026,
    "serie": [
     {
      "mes": "2025-06",
@@ -6775,6 +6982,13 @@
      "preco": 8.2,
      "preco_ini": 5.23,
      "variacao": 56.85
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 14.35,
+     "preco_ini": 8.2,
+     "variacao": 74.97
     }
    ]
   },
@@ -6782,7 +6996,7 @@
    "rotulo": "Alho brasileiro",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
-   "peso_iph": 0.0696,
+   "peso_iph": 0.0682,
    "serie": [
     {
      "mes": "2025-06",
@@ -6895,6 +7109,13 @@
      "preco": 17.0,
      "preco_ini": 17.0,
      "variacao": 0.0
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 16.67,
+     "preco_ini": 17.0,
+     "variacao": -1.96
     }
    ]
   },
@@ -6902,7 +7123,7 @@
    "rotulo": "Alho importado",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
-   "peso_iph": 0.0045,
+   "peso_iph": 0.0026,
    "serie": [
     {
      "mes": "2025-06",
@@ -7015,6 +7236,13 @@
      "preco": 18.17,
      "preco_ini": 15.67,
      "variacao": 15.96
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 17.33,
+     "preco_ini": 18.17,
+     "variacao": -4.59
     }
    ]
   },
@@ -7022,7 +7250,7 @@
    "rotulo": "Batata-doce",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
-   "peso_iph": 0.0178,
+   "peso_iph": 0.0163,
    "serie": [
     {
      "mes": "2025-06",
@@ -7135,6 +7363,13 @@
      "preco": 3.58,
      "preco_ini": 3.58,
      "variacao": 0.0
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 3.67,
+     "preco_ini": 3.58,
+     "variacao": 2.33
     }
    ]
   },
@@ -7142,7 +7377,7 @@
    "rotulo": "Batata lisa",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
-   "peso_iph": 0.0726,
+   "peso_iph": 0.0903,
    "serie": [
     {
      "mes": "2025-06",
@@ -7255,6 +7490,13 @@
      "preco": 3.2,
      "preco_ini": 2.53,
      "variacao": 26.32
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 2.8,
+     "preco_ini": 3.2,
+     "variacao": -12.5
     }
    ]
   },
@@ -7262,7 +7504,7 @@
    "rotulo": "Beterraba (sem folhas)",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
-   "peso_iph": 0.0092,
+   "peso_iph": 0.0082,
    "serie": [
     {
      "mes": "2025-06",
@@ -7375,6 +7617,13 @@
      "preco": 2.36,
      "preco_ini": 2.8,
      "variacao": -15.7
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 2.89,
+     "preco_ini": 2.36,
+     "variacao": 22.28
     }
    ]
   },
@@ -7382,7 +7631,7 @@
    "rotulo": "Cebola amarela",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
-   "peso_iph": 0.0487,
+   "peso_iph": 0.0603,
    "serie": [
     {
      "mes": "2025-06",
@@ -7495,6 +7744,13 @@
      "preco": 4.75,
      "preco_ini": 3.42,
      "variacao": 39.02
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 5.96,
+     "preco_ini": 4.75,
+     "variacao": 25.44
     }
    ]
   },
@@ -7615,6 +7871,13 @@
      "preco": 4.0,
      "preco_ini": 4.0,
      "variacao": 0.0
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 4.0,
+     "preco_ini": 4.0,
+     "variacao": 0.0
     }
    ]
   },
@@ -7622,7 +7885,7 @@
    "rotulo": "Cenoura",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
-   "peso_iph": 0.0326,
+   "peso_iph": 0.0212,
    "serie": [
     {
      "mes": "2025-06",
@@ -7735,6 +7998,13 @@
      "preco": 2.75,
      "preco_ini": 4.0,
      "variacao": -31.25
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 2.25,
+     "preco_ini": 2.75,
+     "variacao": -18.18
     }
    ]
   },
@@ -7742,7 +8012,7 @@
    "rotulo": "Inhame-dedo",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
-   "peso_iph": 0.0098,
+   "peso_iph": 0.0094,
    "serie": [
     {
      "mes": "2025-06",
@@ -7855,6 +8125,13 @@
      "preco": 2.89,
      "preco_ini": 2.71,
      "variacao": 6.51
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 4.65,
+     "preco_ini": 2.89,
+     "variacao": 60.78
     }
    ]
   },
@@ -7862,7 +8139,7 @@
    "rotulo": "Mandioca",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
-   "peso_iph": 0.0072,
+   "peso_iph": 0.0071,
    "serie": [
     {
      "mes": "2025-06",
@@ -7975,6 +8252,13 @@
      "preco": 2.2,
      "preco_ini": 1.99,
      "variacao": 10.48
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 2.2,
+     "preco_ini": 2.2,
+     "variacao": 0.19
     }
    ]
   },
@@ -7982,7 +8266,7 @@
    "rotulo": "Mandioquinha",
    "grupo": "Hortalicas",
    "subgrupo": "Hortalicas - raiz, bulbo, tuberculo e rizoma",
-   "peso_iph": 0.0045,
+   "peso_iph": 0.0038,
    "serie": [
     {
      "mes": "2025-06",
@@ -8095,6 +8379,13 @@
      "preco": 5.33,
      "preco_ini": 5.5,
      "variacao": -3.03
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 7.17,
+     "preco_ini": 5.33,
+     "variacao": 34.38
     }
    ]
   },
@@ -8102,7 +8393,7 @@
    "rotulo": "Ovos de codorna",
    "grupo": "Ovos",
    "subgrupo": "Ovos",
-   "peso_iph": 0.0007,
+   "peso_iph": 0.0006,
    "serie": [
     {
      "mes": "2025-06",
@@ -8215,6 +8506,13 @@
      "preco": 18.57,
      "preco_ini": 18.57,
      "variacao": 0.0
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 18.57,
+     "preco_ini": 18.57,
+     "variacao": 0.0
     }
    ]
   },
@@ -8222,7 +8520,7 @@
    "rotulo": "Ovos de granja",
    "grupo": "Ovos",
    "subgrupo": "Ovos",
-   "peso_iph": 0.0586,
+   "peso_iph": 0.051,
    "serie": [
     {
      "mes": "2025-06",
@@ -8335,6 +8633,13 @@
      "preco": 6.51,
      "preco_ini": 6.67,
      "variacao": -2.38
+    },
+    {
+     "mes": "2026-10",
+     "rotulo": "out/26",
+     "preco": 6.92,
+     "preco_ini": 6.51,
+     "variacao": 6.34
     }
    ],
    "nota": "A partir de outubro/2025 o peso padrao da caixa de 30 duzias passou de 25 kg para 21 kg (decisao tecnica da CeasaMinas). O salto de preco por kg em out/2025 reflete essa mudanca de padrao, nao o mercado."
