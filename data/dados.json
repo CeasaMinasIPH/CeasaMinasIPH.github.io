@@ -3,14 +3,14 @@
   "fonte": "IPH CeasaMinas-UFV — CeasaMinas e Departamento de Economia da UFV",
   "url": "https://www.ceasaminas.com.br/indiceufvgeral.asp",
   "base": "dezembro de 2024 = 100",
-  "gerado_em": "2026-11-10",
+  "gerado_em": "2026-11-17",
   "periodo_mensal": [
    "2025-06",
    "2026-10"
   ],
   "periodo_semanal": [
    "2025-07-16",
-   "2026-09-30"
+   "2026-11-11"
   ],
   "n_produtos": 58,
   "series_indice_rotulo": {
@@ -36,7 +36,8 @@
    "Ovos": "Ovos"
   },
   "avisos": [
-   "Numero-indice: ancora nao encontrada"
+   "Numero-indice: ancora nao encontrada",
+   "Semanal: 42 dias entre 2026-09-30 e 2026-11-11"
   ]
  },
  "indice_numero": [
@@ -1232,6 +1233,20 @@
    "Hortalicas_fruto": 3.02,
    "Hortalicas_raiz_bulbo_tuberculo_rizoma": -3.14,
    "Ovos": 0.0
+  },
+  {
+   "fim": "2026-11-11",
+   "periodo": "05/11 a 11/11",
+   "origem": "informe",
+   "IPH": 3.81,
+   "Frutas": 1.96,
+   "Hortalicas": 5.56,
+   "Ovos": 0.0,
+   "Frutas_brasileiras": 1.93,
+   "Hortalicas_folha_flor_haste": -13.12,
+   "Frutas_importadas": 2.57,
+   "Hortalicas_fruto": -12.7,
+   "Hortalicas_raiz_bulbo_tuberculo_rizoma": 19.74
   }
  ],
  "decomposicao": {
